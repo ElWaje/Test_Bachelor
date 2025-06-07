@@ -36,7 +36,7 @@ Pantalla principal con fondo personalizado, elegante y con espacio central claro
 
 Desde aquí accedes a las secciones, puedes crear nuevas y gestionar tus tests:
 
-![Menú principal](Menu_main.png)
+![Menú principal](assets/Menu_main.png)
 
 ---
 
@@ -44,7 +44,7 @@ Desde aquí accedes a las secciones, puedes crear nuevas y gestionar tus tests:
 
 Escoge la sección/asignatura desde el desplegable para cargar sus tests:
 
-![Selección de sección](Select_Subject%20.png)
+![Selección de sección](assets/Select_Subject%20.png)
 
 ---
 
@@ -52,7 +52,7 @@ Escoge la sección/asignatura desde el desplegable para cargar sus tests:
 
 Elige el test que quieras realizar:
 
-![Selección de tema/test](Select_Issue%20.png)
+![Selección de tema/test](assets/Select_Issue%20.png)
 
 ---
 
@@ -60,7 +60,7 @@ Elige el test que quieras realizar:
 
 Haz clic en "Hacer Test" para comenzar con las preguntas:
 
-![Iniciar test](Make_Test.png)
+![Iniciar test](assets/Make_Test.png)
 
 ---
 
@@ -68,7 +68,7 @@ Haz clic en "Hacer Test" para comenzar con las preguntas:
 
 Ahora puedes lanzar un examen aleatorio SOLO de la sección/asignatura seleccionada:
 
-![Examen aleatorio](20_Question_Random.png)
+![Examen aleatorio](assets/20_Question_Random.png)
 
 ---
 
@@ -77,10 +77,10 @@ Ahora puedes lanzar un examen aleatorio SOLO de la sección/asignatura seleccion
 Puedes lanzar un examen solo de la 1ª o 2ª mitad de temas para practicar por bloques:
 
 **Primera mitad:**  
-![Examen 40 primera mitad](40_Question_Random_Middle_1.png)
+![Examen 40 primera mitad](assets/40_Question_Random_Middle_1.png)
 
 **Segunda mitad:**  
-![Examen 40 segunda mitad](40_Question_Random_Middle_2.png)
+![Examen 40 segunda mitad](assets/40_Question_Random_Middle_2.png)
 
 ---
 
@@ -88,7 +88,7 @@ Puedes lanzar un examen solo de la 1ª o 2ª mitad de temas para practicar por b
 
 Organiza tus tests creando nuevas secciones:
 
-![Nueva sección](Create_New_Section.png)
+![Nueva sección](assets/Create_New_Section.png)
 
 ---
 
@@ -96,7 +96,7 @@ Organiza tus tests creando nuevas secciones:
 
 Agrega tests en formato `.json` en la sección actual:
 
-![Añadir test](Add_Test.png)
+![Añadir test](assets/Add_Test.png)
 
 ---
 
@@ -104,9 +104,9 @@ Agrega tests en formato `.json` en la sección actual:
 
 Consulta los resultados y revisa todas las respuestas, viendo correctas y falladas:
 
-![Correctas](Corrects.png)  
-![Preguntas](Questions.png)  
-![Resultados](Results.png)
+![Correctas](assets/Corrects.png)  
+![Preguntas](assets/Questions.png)  
+![Resultados](assets/Results.png)
 
 ---
 
@@ -115,7 +115,7 @@ Consulta los resultados y revisa todas las respuestas, viendo correctas y fallad
 Consulta los resultados acumulados y evolución gráfica de tus tests:
 
 **Panel clásico:**  
-![Estadísticas](Statistics.png)
+![Estadísticas](assets/Statistics.png)
 
 ---
 
