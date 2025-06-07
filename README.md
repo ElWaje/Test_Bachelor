@@ -1,4 +1,3 @@
-
 # 🧪 Generador de Tests en PyQt5
 
 Este proyecto es una aplicación de escritorio construida con **Python** y **PyQt5** que permite crear, organizar y realizar tests interactivos de forma visual. Está diseñado para docentes, estudiantes o cualquier persona que necesite gestionar cuestionarios organizados por secciones y temas.
@@ -20,56 +19,56 @@ Este proyecto es una aplicación de escritorio construida con **Python** y **PyQ
 ### 1. Pantalla principal
 Desde aquí se accede a las secciones y tests disponibles:
 
-![Menú principal](Menu_main.png)
+![Menú principal](assets/Menu_main.png)
 
 ---
 
 ### 2. Selección de sección
 Selecciona la sección desde el desplegable para cargar sus tests:
 
-![Selección de sección](Select_Subject%20.png)
+![Selección de sección](assets/Select_Subject%20.png)
 
 ---
 
 ### 3. Selección del test
 Una vez seleccionada la sección, escoge el test específico:
 
-![Selección de tema/test](Select_Issue%20.png)
+![Selección de tema/test](assets/Select_Issue%20.png)
 
 ---
 
 ### 4. Iniciar un test
 Haz clic en "Hacer Test" para comenzar con las preguntas:
 
-![Iniciar test](Make_Test.png)
+![Iniciar test](assets/Make_Test.png)
 
 ---
 
 ### 5. Examen aleatorio de 20 preguntas
 Puedes optar por un test mixto aleatorio de cualquier sección:
 
-![Examen aleatorio](20_Question_Random.png)
+![Examen aleatorio](assets/20_Question_Random.png)
 
 ---
 
 ### 6. Crear nueva sección
 Crea una sección personalizada para organizar mejor los tests:
 
-![Nueva sección](Create_New_Section.png)
+![Nueva sección](assets/Create_New_Section.png)
 
 ---
 
 ### 7. Añadir un test
 Agrega nuevos tests en formato `.json` a la sección actual:
 
-![Añadir test](Add_Test.png)
+![Añadir test](assets/Add_Test.png)
 
 ---
 
 ### 8. Ver estadísticas
 Consulta los resultados acumulados de tus tests:
 
-![Estadísticas](Statistics.png)
+![Estadísticas](assets/Statistics.png)
 
 ---
 
@@ -97,6 +96,10 @@ tests_json/
 │   └── Test3.json
 results.json
 Test_Generator.py
+assets/
+│   ├── Menu_main.png
+│   ├── Select_Subject .png
+│   └── ...
 ```
 
 ---
