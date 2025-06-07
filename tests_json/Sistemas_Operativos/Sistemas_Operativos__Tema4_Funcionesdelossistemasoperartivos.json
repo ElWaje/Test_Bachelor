@@ -1,0 +1,202 @@
+[
+  {
+    "question": "¿Qué función de la gestión de la memoria evita que los procesos interfieran en la memoria de otros procesos?",
+    "options": {
+      "A": "Fragmentación",
+      "B": "Paginación",
+      "C": "Interbloqueo",
+      "D": "Segmentación"
+    },
+    "answer": "D"
+  },
+  {
+    "question": "¿Cuál de las siguientes características de un sistema operativo permite a los usuarios múltiples acceder a la misma CPU?",
+    "options": {
+      "A": "Multitarea",
+      "B": "Interfaz de usuario",
+      "C": "Fragmentación",
+      "D": "Memoria compartida"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "¿Qué sistema de archivos es común en sistemas operativos Linux?",
+    "options": {
+      "A": "ext4",
+      "B": "NTFS",
+      "C": "FAT32",
+      "D": "HFS+"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "¿Qué estructura de almacenamiento emplea la asignación enlazada?",
+    "options": {
+      "A": "Un índice único para cada bloque",
+      "B": "Listas enlazadas de bloques con punteros",
+      "C": "Un árbol binario de archivos",
+      "D": "Bloques secuenciales en una partición"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿Cuál es la función de la gestión de procesos en un sistema operativo?",
+    "options": {
+      "A": "Permitir la configuración de periféricos",
+      "B": "Coordinar la creación, suspensión y terminación de procesos",
+      "C": "Gestionar el espacio en disco",
+      "D": "Facilitar la recuperación de datos perdidos"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿Cuál es el principal objetivo de la función de gestión de energía en un sistema operativo?",
+    "options": {
+      "A": "Incrementar la velocidad de la CPU",
+      "B": "Optimizar el uso de la memoria",
+      "C": "Reducir el consumo de energía",
+      "D": "Controlar el acceso de usuarios"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "¿Qué tipo de almacenamiento se utiliza para datos que deben permanecer al apagar el sistema?",
+    "options": {
+      "A": "Memoria caché",
+      "B": "Almacenamiento secundario",
+      "C": "Memoria principal",
+      "D": "Memoria de acceso aleatorio"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿Cuál es el propósito de la memoria caché en un sistema operativo?",
+    "options": {
+      "A": "Almacenar permanentemente grandes volúmenes de datos",
+      "B": "Proveer acceso rápido a datos e instrucciones de uso frecuente",
+      "C": "Incrementar la capacidad de la memoria RAM",
+      "D": "Optimizar el espacio de almacenamiento en discos duros"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿Qué función del sistema operativo administra el acceso a archivos y datos por diferentes usuarios?",
+    "options": {
+      "A": "Permisos de archivos",
+      "B": "Gestión de almacenamiento",
+      "C": "Segmentación",
+      "D": "Fragmentación"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "¿Qué técnica de memoria permite expandir la memoria principal usando almacenamiento secundario?",
+    "options": {
+      "A": "Buffering",
+      "B": "Memoria virtual",
+      "C": "Segmentación",
+      "D": "Fragmentación"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿Cuál es una función esencial de la gestión de recursos en un sistema operativo?",
+    "options": {
+      "A": "Proporcionar una interfaz gráfica de usuario",
+      "B": "Gestionar la seguridad y privacidad de los usuarios",
+      "C": "Asignar eficientemente la CPU, memoria y almacenamiento",
+      "D": "Facilitar la navegación en internet"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "¿Qué técnica utiliza el sistema operativo para evitar que un proceso bloquee permanentemente la CPU?",
+    "options": {
+      "A": "Buffering",
+      "B": "Temporizador",
+      "C": "Caching",
+      "D": "Almacenamiento en caché"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿Cuál es el objetivo principal de los sistemas de archivos?",
+    "options": {
+      "A": "Crear aplicaciones",
+      "B": "Organizar y gestionar datos almacenados en discos",
+      "C": "Controlar el flujo de datos de red",
+      "D": "Asignar permisos de usuario"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿Qué técnica permite que los datos se almacenen temporalmente mientras esperan a ser procesados?",
+    "options": {
+      "A": "Buffering",
+      "B": "Swapping",
+      "C": "Fragmentación",
+      "D": "Caching"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "¿Qué tipo de interfaz es preferida en sistemas de servidor para un control detallado?",
+    "options": {
+      "A": "Interfaz gráfica",
+      "B": "Interfaz de línea de comandos",
+      "C": "Interfaz de usuario visual",
+      "D": "Aplicaciones en GUI"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿Cuál de los siguientes mecanismos de seguridad utiliza cifrado de clave asimétrica?",
+    "options": {
+      "A": "Antivirus",
+      "B": "Firewall",
+      "C": "Autenticación de contraseña",
+      "D": "Cifrado de clave pública/privada"
+    },
+    "answer": "D"
+  },
+  {
+    "question": "¿Qué permite el control de acceso basado en roles?",
+    "options": {
+      "A": "Asignar permisos según el rol del usuario",
+      "B": "Organizar la estructura de directorios",
+      "C": "Mejorar el rendimiento de la red",
+      "D": "Gestionar la energía del sistema"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "En la gestión de procesos, ¿qué algoritmo de planificación asigna CPU al proceso que llegue primero?",
+    "options": {
+      "A": "Round Robin",
+      "B": "First-Come First-Served",
+      "C": "Shortest Job Next",
+      "D": "Prioridad"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿Cuál de estos no es un componente de la gestión de E/S?",
+    "options": {
+      "A": "Buffering",
+      "B": "Caching",
+      "C": "Paginación",
+      "D": "Spooling"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "¿Qué función facilita la comunicación entre dispositivos en una red?",
+    "options": {
+      "A": "Almacenamiento secundario",
+      "B": "Gestión de red",
+      "C": "Interfaz de usuario",
+      "D": "Administración de usuarios"
+    },
+    "answer": "B"
+  }
+]

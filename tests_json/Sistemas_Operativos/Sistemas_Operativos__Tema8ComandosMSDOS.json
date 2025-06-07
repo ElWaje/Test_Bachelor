@@ -1,0 +1,202 @@
+[
+  {
+    "question": "¿Qué comando se usa para cambiar de directorio en MS-DOS?",
+    "options": {
+      "A": "DIR",
+      "B": "CD",
+      "C": "MD",
+      "D": "DEL"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿Cuál es el propósito del comando FC en MS-DOS?",
+    "options": {
+      "A": "Fusiona dos archivos",
+      "B": "Finaliza la ejecución de procesos",
+      "C": "Compara el contenido de dos archivos",
+      "D": "Formatea el sistema de archivos"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "¿Cuál es el comando en MS-DOS que muestra la versión de Windows?",
+    "options": {
+      "A": "VERSION",
+      "B": "SYSINFO",
+      "C": "VER",
+      "D": "WINVER"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "¿Qué significa una “ruta absoluta” en MS-DOS?",
+    "options": {
+      "A": "Una ruta desde el directorio actual",
+      "B": "Una ruta completa desde la raíz del sistema de archivos",
+      "C": "Una ruta incompleta",
+      "D": "Una ruta para archivos temporales"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿Qué comando permite establecer una variable de entorno en MS-DOS?",
+    "options": {
+      "A": "SET",
+      "B": "CONFIG",
+      "C": "ENV",
+      "D": "DEF"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "¿Qué realiza el comando CHKDSK en MS-DOS?",
+    "options": {
+      "A": "Comprueba y muestra el estado de un disco",
+      "B": "Cambia el disco activo",
+      "C": "Borra el contenido de un disco",
+      "D": "Copia archivos entre discos"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Para crear un nuevo directorio en MS-DOS, se utiliza el comando:",
+    "options": {
+      "A": "NEWDIR",
+      "B": "CHDIR",
+      "C": "MD o MKDIR",
+      "D": "COPYDIR"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "¿Qué significa MS-DOS?",
+    "options": {
+      "A": "Microsoft Default Operating System",
+      "B": "Microsoft Disk Operating System",
+      "C": "Microsoft Desktop Operating System",
+      "D": "Main Disk Operating System"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿Para qué sirve el comando TASKKILL en MS-DOS?",
+    "options": {
+      "A": "Muestra la lista de tareas",
+      "B": "Inicia un nuevo proceso",
+      "C": "Termina un proceso en ejecución",
+      "D": "Verifica el estado del sistema"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "¿Cuál es el comando para cerrar la ventana de MS-DOS?",
+    "options": {
+      "A": "END",
+      "B": "EXIT",
+      "C": "QUIT",
+      "D": "SHUTDOWN"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿Cuál es el comando en MS-DOS para borrar un archivo?",
+    "options": {
+      "A": "DEL",
+      "B": "ERASE",
+      "C": "RMD",
+      "D": "CLEAR"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "¿Cuál es el propósito del comando SHUTDOWN en MS-DOS?",
+    "options": {
+      "A": "Cambia la sesión de usuario",
+      "B": "Apaga o reinicia el sistema",
+      "C": "Inicia el sistema",
+      "D": "Muestra la información del usuario"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "El comando COPY en MS-DOS sirve para:",
+    "options": {
+      "A": "Cambiar atributos de archivos",
+      "B": "Eliminar archivos",
+      "C": "Copiar archivos de un lugar a otro",
+      "D": "Mostrar la fecha del sistema"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "¿Cómo se ejecuta MS-DOS en sistemas modernos de Windows?",
+    "options": {
+      "A": "Desde la BIOS",
+      "B": "A través de un icono en el escritorio",
+      "C": "Mediante el símbolo del sistema (cmd)",
+      "D": "Mediante el comando \"run-msdos\""
+    },
+    "answer": "C"
+  },
+  {
+    "question": "¿Cómo se accede a la ayuda de un comando específico en MS-DOS?",
+    "options": {
+      "A": "HELP comando",
+      "B": "INFO comando",
+      "C": "comando /?",
+      "D": "MAN comando"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "¿Cuál es el sistema de archivos que utiliza MS-DOS?",
+    "options": {
+      "A": "NTFS",
+      "B": "HFS",
+      "C": "FAT",
+      "D": "EXT4"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "¿Qué función tiene el comando ATTRIB en MS-DOS?",
+    "options": {
+      "A": "Cambia el tamaño de los archivos",
+      "B": "Modifica los atributos de un archivo",
+      "C": "Cierra la sesión de usuario",
+      "D": "Cambia el nombre del archivo"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿Qué comando permite cambiar el color de la consola en MS-DOS?",
+    "options": {
+      "A": "COLOR",
+      "B": "PALETTE",
+      "C": "THEME",
+      "D": "DISP"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "¿Qué hace el comando DIR en MS-DOS?",
+    "options": {
+      "A": "Borra archivos",
+      "B": "Cambia de directorio",
+      "C": "Lista archivos y carpetas",
+      "D": "Muestra información del sistema"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "¿Qué comando es correcto para mostrar el contenido de un archivo en MS-DOS?",
+    "options": {
+      "A": "SHOW",
+      "B": "DISPLAY",
+      "C": "VIEW",
+      "D": "TYPE"
+    },
+    "answer": "D"
+  }
+]

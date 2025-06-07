@@ -1,0 +1,202 @@
+[
+  {
+    "question": "¿Cuál de los siguientes es un producto de VMware?",
+    "options": {
+      "A": "Workstation Player",
+      "B": "VirtualPC",
+      "C": "VirtualBox Pro",
+      "D": "Microsoft Hyper"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "¿Qué es una máquina virtual en el contexto de sistemas operativos?",
+    "options": {
+      "A": "Un dispositivo físico que permite ejecutar software.",
+      "B": "Una aplicación de software que emula un ordenador físico.",
+      "C": "Un tipo de sistema operativo independiente.",
+      "D": "Un componente de hardware específico."
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿Qué configuración debe ajustarse en VirtualBox para usar una carpeta compartida entre el anfitrión y la máquina virtual?",
+    "options": {
+      "A": "Configuración de red",
+      "B": "Configuración de carpetas compartidas",
+      "C": "Configuración de CPU",
+      "D": "Configuración de almacenamiento"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿Qué paso es necesario antes de iniciar la instalación de un sistema operativo en una máquina virtual?",
+    "options": {
+      "A": "Configurar el disco de arranque con la imagen ISO.",
+      "B": "Seleccionar el sistema operativo anfitrión.",
+      "C": "Reiniciar la máquina anfitriona.",
+      "D": "Conectar el sistema a una red externa."
+    },
+    "answer": "A"
+  },
+  {
+    "question": "¿Cuál de las siguientes opciones describe el modelo de \"reserva fija\" para almacenamiento en disco virtual?",
+    "options": {
+      "A": "El disco crece según las necesidades de la máquina.",
+      "B": "Solo almacena datos en memoria.",
+      "C": "Define una cantidad fija de espacio desde el inicio.",
+      "D": "Permite compartir el disco entre varias máquinas virtuales."
+    },
+    "answer": "C"
+  },
+  {
+    "question": "¿Cuál es una de las principales diferencias de Hyper-V frente a VirtualBox y VMware?",
+    "options": {
+      "A": "Solo es compatible con sistemas Linux.",
+      "B": "Solo está disponible en sistemas operativos Microsoft.",
+      "C": "Es el único software de virtualización gratuito.",
+      "D": "No permite ejecutar más de una máquina virtual a la vez."
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿Cuál de los siguientes NO es un sistema operativo anfitrión comúnmente soportado por VirtualBox?",
+    "options": {
+      "A": "Windows",
+      "B": "Linux",
+      "C": "macOS",
+      "D": "Android"
+    },
+    "answer": "D"
+  },
+  {
+    "question": "¿Cuál es el propósito de la herramienta \"VMware Tools\"?",
+    "options": {
+      "A": "Crear múltiples máquinas virtuales a la vez.",
+      "B": "Monitorizar el rendimiento del sistema operativo anfitrión.",
+      "C": "Mejorar la interacción entre el sistema operativo invitado y el anfitrión.",
+      "D": "Ampliar el almacenamiento de la máquina física."
+    },
+    "answer": "C"
+  },
+  {
+    "question": "¿Cuál es el formato nativo de disco virtual utilizado por VirtualBox?",
+    "options": {
+      "A": "VHD",
+      "B": "VDI",
+      "C": "ISO",
+      "D": "IMG"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿Qué tipo de memoria virtual se utiliza para complementar la RAM física en un sistema operativo invitado?",
+    "options": {
+      "A": "Memoria de intercambio (swap)",
+      "B": "Memoria de red",
+      "C": "Disco de arranque",
+      "D": "Almacenamiento en caché"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "En VMware, ¿qué proporciona la herramienta \"Easy Install\"?",
+    "options": {
+      "A": "Permite actualizar el sistema operativo anfitrión.",
+      "B": "Facilita la instalación automática del sistema operativo invitado.",
+      "C": "Configura la red de la máquina virtual.",
+      "D": "Optimiza el uso de memoria del sistema."
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿Para qué se utiliza la \"snapshot\" en VirtualBox?",
+    "options": {
+      "A": "Guardar el estado actual de la máquina virtual para restaurarlo en el futuro.",
+      "B": "Aumentar la capacidad de almacenamiento del disco.",
+      "C": "Mejorar la conectividad de red de la máquina.",
+      "D": "Activar la función de copia de seguridad de datos."
+    },
+    "answer": "A"
+  },
+  {
+    "question": "¿Qué función principal cumple el software de virtualización en un sistema de máquinas virtuales?",
+    "options": {
+      "A": "Emula la arquitectura de red del sistema físico.",
+      "B": "Supervisa el rendimiento de dispositivos físicos.",
+      "C": "Permite la creación y gestión de máquinas virtuales.",
+      "D": "Reemplaza el sistema operativo del dispositivo anfitrión."
+    },
+    "answer": "C"
+  },
+  {
+    "question": "¿Cuál es la función de las \"Guest Additions\" en VirtualBox?",
+    "options": {
+      "A": "Permitir la creación de múltiples sistemas operativos invitados.",
+      "B": "Mejorar la integración y el rendimiento entre el anfitrión y la máquina virtual.",
+      "C": "Configurar el acceso de red para las máquinas virtuales.",
+      "D": "Expandir el disco de almacenamiento de la máquina virtual."
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿Qué es un sistema operativo huésped en el contexto de máquinas virtuales?",
+    "options": {
+      "A": "Es el sistema operativo que se instala dentro de la máquina virtual.",
+      "B": "Es el sistema que permite ejecutar la máquina virtual.",
+      "C": "Es el sistema operativo que se ejecuta en el hardware físico.",
+      "D": "Es la versión avanzada del sistema operativo anfitrión."
+    },
+    "answer": "A"
+  },
+  {
+    "question": "¿Qué parámetro es importante configurar para que el sistema operativo de una máquina virtual se inicie correctamente desde un ISO?",
+    "options": {
+      "A": "Tipo de red",
+      "B": "Disco duro asignado",
+      "C": "Espacio de almacenamiento",
+      "D": "Orden de arranque de la BIOS"
+    },
+    "answer": "D"
+  },
+  {
+    "question": "¿Qué opción de red en VirtualBox permite que una máquina virtual se conecte exclusivamente con el anfitrión?",
+    "options": {
+      "A": "NAT",
+      "B": "Bridged",
+      "C": "Host-Only",
+      "D": "Interno"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "¿Qué significa \"NAT\" en el contexto de la configuración de red de una máquina virtual?",
+    "options": {
+      "A": "Un tipo de almacenamiento dinámico.",
+      "B": "Network Address Translation, que permite compartir la red del anfitrión.",
+      "C": "Una opción de encriptación de disco.",
+      "D": "La partición automática de la memoria RAM."
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿Qué recurso de hardware puede limitar la cantidad de memoria asignada a una máquina virtual?",
+    "options": {
+      "A": "El sistema operativo invitado",
+      "B": "La CPU",
+      "C": "La cantidad de RAM disponible en la máquina física",
+      "D": "La configuración de red"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "¿Qué función cumple el \"Extension Pack\" de VirtualBox?",
+    "options": {
+      "A": "Actualiza la versión del sistema anfitrión.",
+      "B": "Añade soporte para dispositivos USB y otras funciones avanzadas.",
+      "C": "Configura el sistema de red para las máquinas virtuales.",
+      "D": "Optimiza el rendimiento del disco virtual."
+    },
+    "answer": "B"
+  }
+]

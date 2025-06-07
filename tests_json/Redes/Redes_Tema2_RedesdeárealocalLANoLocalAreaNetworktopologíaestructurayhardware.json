@@ -1,0 +1,202 @@
+[
+  {
+    "question": "¿Qué velocidad pueden alcanzar las conexiones de fibra óptica en las LAN?",
+    "options": {
+      "A": "Fins a 10Mpbs",
+      "B": "Fins a 10Gps o més",
+      "C": "100 Mbps",
+      "D": "1Gbps"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿Cuáles dispositivos son fundamentales para una red LAN?",
+    "options": {
+      "A": "Ordinadores, impresoras y servidores",
+      "B": "Teléfonos móviles",
+      "C": "Servidores y routers únicamente",
+      "D": "Dispositivos IoT"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "¿Por qué son importantes los switches gestionados en redes LAN grandes?",
+    "options": {
+      "A": "Són más económicos",
+      "B": "Permiten configuraciones avanzadas como VLANs y QoS",
+      "C": "Permiten la conexión a Internet",
+      "D": "No necesitan configuración"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿Cuál de los siguientes factores puede influir en la latencia de una red LAN?",
+    "options": {
+      "A": "Reemplazando los switches",
+      "B": "Mitiante VLANs y segmentación de la red",
+      "C": "Ampliando el ancho de banda sin límite",
+      "D": "Desconectando los dispositivos poco utilizados"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿Qué protocolo de comunicación es más utilizado en las redes LAN?",
+    "options": {
+      "A": "Ethernet",
+      "B": "Wi-Fi",
+      "C": "Bluetooth",
+      "D": "TCP/IP"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "¿Qué dispositivo es necesario para establecer conexión Wi-Fi en una LAN?",
+    "options": {
+      "A": "Router",
+      "B": "Punto de acceso sin hilos (Access Point)",
+      "C": "Switch",
+      "D": "Modem"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿Qué componentes son esenciales para la seguridad de las redes LAN?",
+    "options": {
+      "A": "Tallafocs y VLANs",
+      "B": "Equipamiento de red solo",
+      "C": "Únicament equips amb contrasenyes fortes",
+      "D": "Dispositivos móviles solo"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "¿Qué topología de red es más sensible a fallos del nodo central?",
+    "options": {
+      "A": "Anell",
+      "B": "Malla",
+      "C": "Estrella",
+      "D": "Bus"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "¿Cuál es la función principal de una red LAN?",
+    "options": {
+      "A": "Conectar dispositivos en una área extensa",
+      "B": "Permitir la comunicación e interconexión de dispositivos en una área limitada",
+      "C": "Crear una red privada global",
+      "D": "Conectar dispositivos móviles de manera segura"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿Cuál es una de las ventajas de la topología en estrella?",
+    "options": {
+      "A": "Facilitación para identificar fallos y problemas de rendimiento",
+      "B": "Complejidad en la configuración",
+      "C": "Baixa velocitat de transmissió",
+      "D": "Depenencia de los nodos periféricos"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "¿Cuál es la principal diferencia entre las LAN y las WAN?",
+    "options": {
+      "A": "Les LAN operan en una área geográfica limitada, mientras que las WAN cubren áreas más amplias",
+      "B": "Les LAN pueden ser más lentas",
+      "C": "Les LAN no pueden compartir recursos",
+      "D": "Les LAN no se pueden usar para la conexión de internet"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "¿Qué protocolo de seguridad es común para proteger las LAN?",
+    "options": {
+      "A": "TLS (Seguridad de la Capa de Transporte)",
+      "B": "HTTPS",
+      "C": "FTP",
+      "D": "UDP"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "¿Qué es una VLAN en una red LAN?",
+    "options": {
+      "A": "Una red inalámbrica",
+      "B": "Una segmentación física de la red",
+      "C": "Una segmentación lógica de la red",
+      "D": "Una red para dispositivos móviles"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "¿Qué protocolo de seguridad es común para proteger a las LAN?",
+    "options": {
+      "A": "Alta velocidad e inmunidad a las interferencias electromagnéticas",
+      "B": "Potencia baja",
+      "C": "Distancia limitada",
+      "D": "Vulnerabilidad a interferencias"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "¿Qué tecnología se utiliza en las LAN para garantizar una buena velocidad de transmisión de datos?",
+    "options": {
+      "A": "Fibra óptica",
+      "B": "Coaxial",
+      "C": "Infrarojos",
+      "D": "Wi-Fi"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "¿Cuál de los siguientes factores puede influir en la latencia de una red LAN?",
+    "options": {
+      "A": "Tránsito de la red y distancia física",
+      "B": "La calidad de los dispositivos móviles",
+      "C": "La temperatura de la red",
+      "D": "La velocidad de conexión a internet"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "¿Cuál es la diferencia entre un switch y un router?",
+    "options": {
+      "A": "El router conecta dispositivos dentro de la misma red, mientras que el switch los conecta con otras redes.",
+      "B": "El switch conecta dispositivos dentro de la misma red, mientras que el router conecta redes diferentes.",
+      "C": "El router se utiliza solo para redes inalámbricas",
+      "D": "El switch no puede gestionar el tráfico de datos entre subredes"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿Qué topología permite múltiples rutas para los datos y es extremadamente fiable?",
+    "options": {
+      "A": "Malla",
+      "B": "Estrella",
+      "C": "Anell",
+      "D": "Bus"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "¿Qué topología de red es más habitual en las LAN?",
+    "options": {
+      "A": "Anell",
+      "B": "Estrella",
+      "C": "Malla",
+      "D": "Bus"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿Qué tipos de red son utilizadas en las instituciones educativas?",
+    "options": {
+      "A": "LAN",
+      "B": "MAN",
+      "C": "WAN",
+      "D": "PAN"
+    },
+    "answer": "A"
+  }
+]

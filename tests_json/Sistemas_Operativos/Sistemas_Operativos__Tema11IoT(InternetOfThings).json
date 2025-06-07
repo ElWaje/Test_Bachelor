@@ -1,0 +1,202 @@
+[
+  {
+    "question": "¿Cuál de estos es un desafío de seguridad común en dispositivos IoT?",
+    "options": {
+      "A": "Sobrecarga de red",
+      "B": "Falta de contraseñas adecuadas y seguras",
+      "C": "Alto consumo de ancho de banda",
+      "D": "Escasez de almacenamiento"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿Qué tipo de arquitectura es común en el diseño de IoT?",
+    "options": {
+      "A": "Arquitectura en estrella",
+      "B": "Arquitectura en capas",
+      "C": "Arquitectura distribuida",
+      "D": "Arquitectura de red cerrada"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿Cuál de estos es un protocolo de comunicación común en IoT?",
+    "options": {
+      "A": "FTP",
+      "B": "SNMP",
+      "C": "MQTT",
+      "D": "POP3"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "¿Qué capa de la arquitectura IoT se encarga de la captura de datos?",
+    "options": {
+      "A": "Capa de aplicación",
+      "B": "Capa física",
+      "C": "Capa de integración",
+      "D": "Capa de seguridad"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿Qué característica describe mejor a Ubuntu Core en IoT?",
+    "options": {
+      "A": "Versión de escritorio de Ubuntu",
+      "B": "Ubuntu minimalista diseñado para dispositivos IoT",
+      "C": "Sistema operativo para ordenadores de alta potencia",
+      "D": "Herramienta de desarrollo web"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿Cuál es una buena práctica para mejorar la seguridad en dispositivos IoT?",
+    "options": {
+      "A": "Permitir actualizaciones de software manuales",
+      "B": "Utilizar contraseñas simples",
+      "C": "Implementar autenticación de dos factores",
+      "D": "Deshabilitar la protección de datos"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "¿Qué es el Internet de las Cosas (IoT)?",
+    "options": {
+      "A": "Una red exclusiva de dispositivos móviles",
+      "B": "Una red de dispositivos conectados a Internet que pueden recopilar y transferir datos",
+      "C": "Un sistema operativo para dispositivos de red",
+      "D": "Una tecnología para mejorar la velocidad de Internet"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿Cuál es la función principal del componente de infraestructura en IoT?",
+    "options": {
+      "A": "Proteger datos en la nube",
+      "B": "Interconectar dispositivos físicos y redes",
+      "C": "Crear visualizaciones de datos",
+      "D": "Proveer servicios de inteligencia artificial"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿Qué es Edge Computing en el contexto del IoT?",
+    "options": {
+      "A": "El procesamiento de datos en servidores centrales",
+      "B": "Almacenamiento masivo en la nube",
+      "C": "Procesamiento de datos en el dispositivo IoT para mejorar la latencia",
+      "D": "Optimización de sistemas de datos en la red"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "¿Cuál es la importancia principal del IoT en la industria?",
+    "options": {
+      "A": "Mejora el diseño de productos electrónicos",
+      "B": "Facilita la recopilación de datos y la automatización de procesos",
+      "C": "Optimiza el uso de redes sociales",
+      "D": "Incrementa la velocidad de procesamiento de datos"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿Qué capa de la arquitectura IoT incluye los sensores y actuadores?",
+    "options": {
+      "A": "Capa de integración",
+      "B": "Capa de red",
+      "C": "Capa física/de dispositivo",
+      "D": "Capa de visualización"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "¿Qué función tienen los actuadores en un sistema IoT?",
+    "options": {
+      "A": "Almacenan información en la nube",
+      "B": "Capturan y procesan datos del usuario",
+      "C": "Realizan acciones en el entorno en respuesta a los datos",
+      "D": "Proveen conexión de red para sensores"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "En IoT, ¿cuál es una ventaja de utilizar plataformas como Arduino?",
+    "options": {
+      "A": "Permiten monitoreo de alto rendimiento",
+      "B": "Facilitan la programación y simulación de dispositivos IoT",
+      "C": "Son compatibles solo con sistemas operativos propietarios",
+      "D": "Requieren poca habilidad en programación"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿Qué sistema operativo utiliza actualizaciones OTA (Over-The-Air) para IoT?",
+    "options": {
+      "A": "Windows 10",
+      "B": "Android",
+      "C": "Ubuntu Core",
+      "D": "MacOS"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "En IoT, ¿qué protocolo es adecuado para dispositivos con recursos limitados?",
+    "options": {
+      "A": "HTTP",
+      "B": "CoAP",
+      "C": "FTP",
+      "D": "SNMP"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿Cuál es un beneficio de usar el protocolo MQTT en IoT?",
+    "options": {
+      "A": "Consume más ancho de banda",
+      "B": "Es ideal para conexiones inestables",
+      "C": "Requiere una alta potencia de procesamiento",
+      "D": "Utiliza grandes cantidades de energía"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿Qué componente de la arquitectura IoT se encarga de analizar y mostrar información?",
+    "options": {
+      "A": "Componente de seguridad",
+      "B": "Componente de infraestructura",
+      "C": "Componente de aplicaciones y análisis",
+      "D": "Componente de integración"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "En el IoT, ¿qué función cumplen los sensores?",
+    "options": {
+      "A": "Actúan como controladores de red",
+      "B": "Transmiten señales de audio y video",
+      "C": "Recopilan datos del entorno",
+      "D": "Permiten realizar análisis de datos"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "¿Cuál es un ejemplo de aplicación de Ubuntu Core en IoT?",
+    "options": {
+      "A": "Administración de redes sociales",
+      "B": "Uso en robots industriales para actualizar software y controlar dispositivos",
+      "C": "Creación de bases de datos empresariales",
+      "D": "Gestión de sistemas operativos de escritorio"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿Qué describe mejor el rol de la capa de análisis en la arquitectura IoT?",
+    "options": {
+      "A": "Generar datos sin procesar",
+      "B": "Procesar y visualizar datos para su interpretación",
+      "C": "Transmitir señales en tiempo real",
+      "D": "Proveer almacenamiento de datos sin análisis"
+    },
+    "answer": "B"
+  }
+]

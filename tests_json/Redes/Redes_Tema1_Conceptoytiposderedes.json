@@ -1,0 +1,202 @@
+[
+  {
+    "question": "¿En qué década del siglo XX se puede considerar que comienzan a aparecer las primeras redes de ordenadores?",
+    "options": {
+      "A": "En la década de los años 60",
+      "B": "En la década de los años 30",
+      "C": "En la década de los años 70",
+      "D": "En la década de los años 80"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "¿Cuál de las siguientes es la mejor topología de redes desde el punto de vista de la eficiencia?",
+    "options": {
+      "A": "Bus",
+      "B": "La selección y/o combinación de topologías que más se ajusten al caso específico",
+      "C": "Estrella",
+      "D": "Malla"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿Cuál de las siguientes NO es una razón por la cual se utilizan redes conmutadas de paquetes?",
+    "options": {
+      "A": "Impedir que la latencia o la pérdida de paquetes pueda afectar las comunicaciones",
+      "B": "Permiten conexiones simultáneas sin necesidad de reservar recursos de manera permanente",
+      "C": "Faciliten la conexión entre terminales con velocidades diferentes",
+      "D": "Maximizar el uso de los canales de comunicación"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "¿Cuál de las siguientes no es una tecnología de redes de telefonía móvil?",
+    "options": {
+      "A": "GPRS",
+      "B": "SONET",
+      "C": "GMS",
+      "D": "UMTS"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿Cuál de los siguientes NO es un mecanismo de clasificación de los enlaces punto a punto?",
+    "options": {
+      "A": "Símplex",
+      "B": "Half-simplex",
+      "C": "Semidúplex",
+      "D": "Dúplex"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "En una red de línea dedicada la conexión entre dos puntos es:",
+    "options": {
+      "A": "Permanente e exclusiva",
+      "B": "Permanente y compartida",
+      "C": "Temporal y exclusiva",
+      "D": "Temporal y compartida"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "¿Cuáles de las siguientes son tecnologías habituales de las redes LAN?",
+    "options": {
+      "A": "Ethernet y Bluetooth",
+      "B": "SONET e infrarrojos",
+      "C": "Ethernet y Wi-fi",
+      "D": "Ethernet y fibra óptica"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "¿Cuál de los siguientes NO es un criterio de clasificación de redes?",
+    "options": {
+      "A": "Topología",
+      "B": "Tipos de conmutación",
+      "C": "Abast",
+      "D": "Gestión"
+    },
+    "answer": "D"
+  },
+  {
+    "question": "¿Cuál de los siguientes es un tipo de riesgo de las redes de difusión?",
+    "options": {
+      "A": "Pérdida de privacidad",
+      "B": "Reducción de la velocidad",
+      "C": "Reducción de la flexibilidad",
+      "D": "Incremento del esfuerzo de gestión"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "¿Cuál de los siguientes NO es una ventaja de las redes de ordenadores?",
+    "options": {
+      "A": "Optimización de recursos",
+      "B": "Colaboración entre investigadores",
+      "C": "Acceso a información distribuida",
+      "D": "Automatización del desarrollo"
+    },
+    "answer": "D"
+  },
+  {
+    "question": "¿Cuál de las siguientes es una tecnología habitual en redes cableadas?",
+    "options": {
+      "A": "Ethernet",
+      "B": "WiFi",
+      "C": "Bluetooth",
+      "D": "WiMAX"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Resilient Packet Ring se utiliza en:",
+    "options": {
+      "A": "Topologías en estrella",
+      "B": "Topologías en bus",
+      "C": "Topologías en malla",
+      "D": "Topologías en anillo"
+    },
+    "answer": "D"
+  },
+  {
+    "question": "¿Qué quieren decir las siglas PAN?",
+    "options": {
+      "A": "Red de Área Personal",
+      "B": "Red de Acceso de Ruta",
+      "C": "Red de Acceso Personal",
+      "D": "Red de Acción Procesal"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Atendiendo al tipo de conmutación, las redes pueden ser de:",
+    "options": {
+      "A": "Conmutación de circuitos y de nodos",
+      "B": "Conmutación de paquetes y de trabajo",
+      "C": "Conmutación de circuitos y de paquetes",
+      "D": "Conmutación de paquetes y de tramas"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "¿Cuál de las siguientes es una desventaja de la conmutación de circuitos?",
+    "options": {
+      "A": "Aparecen problemas graves de confidencialidad de la información",
+      "B": "La gestión es más compleja",
+      "C": "Los costos son más elevados",
+      "D": "Una vez establecido el circuito, los recursos quedan bloqueados"
+    },
+    "answer": "D"
+  },
+  {
+    "question": "¿Cuál de las siguientes opciones NO es una de las típicas topologías de red?",
+    "options": {
+      "A": "Estrella",
+      "B": "Pirámide",
+      "C": "Bus",
+      "D": "Malla"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿Cuál de las siguientes ventajas representa una red de líneas dedicadas?",
+    "options": {
+      "A": "Reducción de costos",
+      "B": "Seguridad y fiabilidad",
+      "C": "Incremento de la velocidad de transmisión",
+      "D": "Mejor ancho de banda"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿Qué nombre recibía el mecanismo que permitía que múltiples usuarios pudieran acceder \"simultáneamente\" a los primeros ordenadores centralizados?",
+    "options": {
+      "A": "Enlace de Datos Sincrónico",
+      "B": "Tiempo compartido",
+      "C": "Máquina Virtual",
+      "D": "Computación en la Nube"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿Con cuál de las siguientes tipologías crees que se ajusta más Ethernet?",
+    "options": {
+      "A": "Malla",
+      "B": "Híbrida",
+      "C": "Estrella",
+      "D": "Anillo"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿Cuáles de las siguientes son tecnologías habituales de las redes PAN?",
+    "options": {
+      "A": "Ethernet y Wi-fi",
+      "B": "Bluetooth y fibra óptica",
+      "C": "Bluetooth y Wi-fi",
+      "D": "Infrarrojos y fibra óptica"
+    },
+    "answer": "C"
+  }
+]

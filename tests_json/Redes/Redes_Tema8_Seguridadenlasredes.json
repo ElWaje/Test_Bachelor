@@ -1,0 +1,202 @@
+[
+  {
+    "question": "¿Qué medidas de seguridad se deben implementar en el diseño de una red segura?",
+    "options": {
+      "A": "Segmentación, redundancia y minimización de los puntos de acceso",
+      "B": "Únicamente cortafuegos",
+      "C": "Únicamente cortafuegos de nueva generación",
+      "D": "Usar solo encriptación para los datos"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "¿Qué herramientas pueden ayudar a proteger las redes contra el phishing?",
+    "options": {
+      "A": "Sistemas de detección de correos electrónicos fraudulentos y formación de usuarios",
+      "B": "Cortafuegos solo",
+      "C": "Únicamente el uso de cifrado en todos los correos",
+      "D": "Desactivar la recepción de correos de fuera de la red interna"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "¿Cuáles son las mejores prácticas para proteger los puntos de acceso Wi-Fi?",
+    "options": {
+      "A": "Usar contraseñas fáciles de recordar",
+      "B": "Desactivar toda seguridad en redes públicas",
+      "C": "Utilizar WPA3 e implementar redes de invitados para separar los dispositivos",
+      "D": "Permitir acceso solo por cable"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "¿Cuáles son las características de los protocolos de seguridad inalámbrica como WPA3?",
+    "options": {
+      "A": "No ofrecen cifrado",
+      "B": "Sólo protegen las conexiones Ethernet",
+      "C": "Son sólo utilizados en redes privadas",
+      "D": "Ofrecen encriptación mejorada para proteger las conexiones Wi-Fi contra ataques de fuerza bruta"
+    },
+    "answer": "D"
+  },
+  {
+    "question": "¿Cuál es la diferencia entre un IDS y un IPS?",
+    "options": {
+      "A": "Un IDS puede prevenir intrusiones de manera activa",
+      "B": "Un IDS no puede detectar tráfico sospechoso",
+      "C": "Un IPS solo se utiliza en redes privadas",
+      "D": "Un IPS puede prevenir intrusiones en tiempo real, bloqueando tráfico sospechoso"
+    },
+    "answer": "D"
+  },
+  {
+    "question": "¿Cuál es la diferencia entre las amenazas que afectan a redes cableadas y sin hilos?",
+    "options": {
+      "A": "Las redes inalámbricas no tienen ninguna amenaza de seguridad",
+      "B": "Las redes inalámbricas son más vulnerables al sniffing y al cracking de claves",
+      "C": "Las redes inalámbricas solo son vulnerables a ataques de denegación de servicio (DoS)",
+      "D": "Las redes cableadas no sufren amenazas como el phishing"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿Qué medidas de seguridad se deben implementar en el diseño de una red segura?",
+    "options": {
+      "A": "Segmentación, redundancia y minimización de los puntos de acceso",
+      "B": "Únicamente cortafuegos",
+      "C": "Únicamente cortafuegos de nueva generación",
+      "D": "Usar solo encriptación para los datos"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "¿Cuál es la importancia de la seguridad en redes en entornos modernos?",
+    "options": {
+      "A": "Es fundamental para proteger los datos y garantizar la confianza en las comunicaciones de redes globales",
+      "B": "Es solo una preocupación para empresas grandes",
+      "C": "Únicamente para evitar la pérdida de datos personales",
+      "D": "Sólo es importante para las redes inalámbricas"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "¿Cómo puede ayudar la segmentación de redes en la seguridad?",
+    "options": {
+      "A": "Reduce la latencia de la red",
+      "B": "Aísla las diferentes partes de la red para limitar los daños en caso de ataque",
+      "C": "Mejora la velocidad de la red",
+      "D": "Permite la conexión de más dispositivos"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿Qué es un IDS (Sistema de Detección de Intrusiones)?",
+    "options": {
+      "A": "Un dispositivo para crear copias de seguridad",
+      "B": "Un sistema que monitorea el tráfico de red para identificar actividades sospechosas y generar alertas",
+      "C": "Un sistema de protección contra virus",
+      "D": "Un sistema para optimizar el tráfico de red"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿Qué protocolos se utilizan para proteger las redes inalámbricas?",
+    "options": {
+      "A": "WPA3 y autenticación 802.1X",
+      "B": "Wi-Fi Directo y Bluetooth",
+      "C": "TCP/IP e IPsec",
+      "D": "NAT y DNS"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "¿Qué significa el término ARP spoofing?",
+    "options": {
+      "A": "Falsificación de direcciones IP para realizar ataques DoS",
+      "B": "Ataques de fuerza bruta para obtener contraseñas",
+      "C": "Un tipo de phishing para robar información",
+      "D": "Falsificación de direcciones MAC para interceptar el tráfico de la red"
+    },
+    "answer": "D"
+  },
+  {
+    "question": "¿Qué estrategia ayuda a proteger los datos en tránsito?",
+    "options": {
+      "A": "Crear redes inalámbricas públicas",
+      "B": "Cifrado de datos durante la comunicación para evitar que sean interceptadas",
+      "C": "Uso de contraseñas fáciles",
+      "D": "Desactivar la conexión a redes externas"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿Qué es un IDS (Sistema de Detección de Intrusiones)?",
+    "options": {
+      "A": "Un dispositivo para crear copias de seguridad",
+      "B": "Un sistema que monitorea el tráfico de red para identificar actividades sospechosas y generar alertas",
+      "C": "Un sistema de protección contra virus",
+      "D": "Un sistema para optimizar el tráfico de red"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿Cuál de las siguientes amenazas puede afectar las redes cableadas?",
+    "options": {
+      "A": "Ataques DDoS solo",
+      "B": "Ataques de phishing exclusivamente",
+      "C": "Sniffing y ARP spoofing",
+      "D": "Únicamente ataques de fuerza bruta a contraseñas"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "¿Cuál es la diferencia entre un IDS y un IPS?",
+    "options": {
+      "A": "Un IDS puede prevenir intrusiones de manera activa",
+      "B": "Un IDS no puede detectar tráfico sospechoso",
+      "C": "Un IPS solo se utiliza en redes privadas",
+      "D": "Un IPS puede prevenir intrusiones en tiempo real, bloqueando tráfico sospechoso"
+    },
+    "answer": "D"
+  },
+  {
+    "question": "¿Cuáles son las características de los protocolos de seguridad inalámbrica como WPA3?",
+    "options": {
+      "A": "No ofrecen cifrado",
+      "B": "Sólo protegen las conexiones Ethernet",
+      "C": "Son sólo utilizados en redes privadas",
+      "D": "Ofrecen encriptación mejorada para proteger las conexiones Wi-Fi contra ataques de fuerza bruta"
+    },
+    "answer": "D"
+  },
+  {
+    "question": "¿Qué herramientas pueden ayudar a proteger las redes contra el phishing?",
+    "options": {
+      "A": "Sistemas de detección de correos electrónicos fraudulentos y formación de usuarios",
+      "B": "Cortafuegos solo",
+      "C": "Únicamente el uso de cifrado en todos los correos",
+      "D": "Desactivar la recepción de correos de fuera de la red interna"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "¿Cuáles son las mejores prácticas para proteger los puntos de acceso Wi-Fi?",
+    "options": {
+      "A": "Usar contraseñas fáciles de recordar",
+      "B": "Desactivar toda seguridad en redes públicas",
+      "C": "Utilizar WPA3 e implementar redes de invitados para separar los dispositivos",
+      "D": "Permitir acceso solo por cable"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "¿Cuál es la importancia de la seguridad en redes en entornos modernos?",
+    "options": {
+      "A": "Es fundamental para proteger los datos y garantizar la confianza en las comunicaciones de redes globales",
+      "B": "Es solo una preocupación para empresas grandes",
+      "C": "Únicamente para evitar la pérdida de datos personales",
+      "D": "Sólo es importante para las redes inalámbricas"
+    },
+    "answer": "A"
+  }
+]

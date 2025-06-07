@@ -1,0 +1,202 @@
+[
+  {
+    "question": "¿Qué herramienta permite crear copias de seguridad automáticas de archivos en Windows 10?",
+    "options": {
+      "A": "Desfragmentador de disco",
+      "B": "Historial de archivos",
+      "C": "Programador de Tareas",
+      "D": "Explorador de archivos"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿Cuál es la finalidad del archivo \"/etc/passwd\" en Windows?",
+    "options": {
+      "A": "Almacenar datos de usuario",
+      "B": "Gestionar actualizaciones",
+      "C": "No es aplicable a Windows, sino a sistemas Linux",
+      "D": "Instalar aplicaciones"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "¿Qué es un “widget” en Windows 10?",
+    "options": {
+      "A": "Un archivo ejecutable",
+      "B": "Un acceso rápido a información específica como el clima o noticias",
+      "C": "Una aplicación de seguridad",
+      "D": "Un complemento de red"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿Qué es Cortana en Windows 10?",
+    "options": {
+      "A": "Un navegador de Internet",
+      "B": "Un asistente personal virtual",
+      "C": "Un editor de texto",
+      "D": "Una herramienta de desfragmentación"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿Qué función de Windows 10 permite restaurar archivos a versiones anteriores?",
+    "options": {
+      "A": "Historial de red",
+      "B": "Historial de archivos",
+      "C": "Visor de Eventos",
+      "D": "Windows Update"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿Qué comando permite ver o modificar el arranque en Windows 10?",
+    "options": {
+      "A": "Control Panel",
+      "B": "bcdedit.exe",
+      "C": "msconfig.exe",
+      "D": "bootrec.exe"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿Cuál es una característica de accesibilidad en Windows 10?",
+    "options": {
+      "A": "Narrador",
+      "B": "Visor de eventos",
+      "C": "Editor de texto",
+      "D": "Cortana"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "¿A qué aplicación reemplazó Microsoft Edge en Windows 10?",
+    "options": {
+      "A": "Internet Explorer",
+      "B": "Internet Explorer 11",
+      "C": "Windows Explorer",
+      "D": "Bing"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿Qué función tiene Windows Hello en Windows 10?",
+    "options": {
+      "A": "Navegación web segura",
+      "B": "Iniciar sesión mediante reconocimiento facial o huella digital",
+      "C": "Crear accesos directos a aplicaciones",
+      "D": "Gestionar actualizaciones"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿Para qué sirve el Visor de eventos en Windows 10?",
+    "options": {
+      "A": "Mejorar el rendimiento de la CPU",
+      "B": "Registrar y mostrar eventos del sistema",
+      "C": "Gestionar redes",
+      "D": "Controlar las cuentas de usuario"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿Cuál es el objetivo de la herramienta Desfragmentar y optimizar unidades?",
+    "options": {
+      "A": "Mejorar la eficiencia al reorganizar archivos en el disco",
+      "B": "Crear copias de seguridad",
+      "C": "Instalar actualizaciones",
+      "D": "Comprimir archivos"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "¿Cuál es el propósito del Programador de Tareas en Windows 10?",
+    "options": {
+      "A": "Ejecutar tareas automáticamente en horarios específicos",
+      "B": "Controlar el uso de red",
+      "C": "Instalar programas",
+      "D": "Organizar archivos y carpetas"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "¿Qué herramienta en Windows 10 se utiliza para personalizar la apariencia del escritorio?",
+    "options": {
+      "A": "Herramientas administrativas",
+      "B": "Configuración de archivos",
+      "C": "Personalización",
+      "D": "Panel de control"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "¿Qué tipo de cuenta de usuario permite sincronización en múltiples dispositivos en Windows 10?",
+    "options": {
+      "A": "Local",
+      "B": "Administrador",
+      "C": "Cuenta de Microsoft",
+      "D": "Invitado"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "¿Cuál fue el primer sistema operativo de Microsoft con interfaz gráfica?",
+    "options": {
+      "A": "Windows XP",
+      "B": "Windows 1.0",
+      "C": "Windows Vista",
+      "D": "Windows 95"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿Qué edición de Windows 10 está dirigida a grandes empresas con funciones de seguridad avanzadas?",
+    "options": {
+      "A": "Home",
+      "B": "Enterprise",
+      "C": "Pro",
+      "D": "Education"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿Cuál de los siguientes es un atributo de archivo en Windows 10 que impide su modificación?",
+    "options": {
+      "A": "Oculto",
+      "B": "Sistema",
+      "C": "Almacenamiento",
+      "D": "Solo lectura"
+    },
+    "answer": "D"
+  },
+  {
+    "question": "¿Cuál es el sistema de archivos principal utilizado por Windows 10?",
+    "options": {
+      "A": "FAT16",
+      "B": "CDFS",
+      "C": "NTFS",
+      "D": "UDF"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "¿Dónde se encuentran las configuraciones para dispositivos Bluetooth en Windows 10?",
+    "options": {
+      "A": "Panel de control",
+      "B": "Configuración > Dispositivos",
+      "C": "Windows Defender",
+      "D": "Explorador de archivos"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿Qué aplicación permite gestionar el arranque y servicios que se ejecutan al iniciar Windows 10?",
+    "options": {
+      "A": "Visor de eventos",
+      "B": "Aplicación de configuración del sistema (msconfig)",
+      "C": "Panel de control",
+      "D": "Servicios"
+    },
+    "answer": "B"
+  }
+]

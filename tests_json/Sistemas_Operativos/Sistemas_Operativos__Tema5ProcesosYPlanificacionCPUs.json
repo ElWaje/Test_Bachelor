@@ -1,0 +1,202 @@
+[
+  {
+    "question": "¿Qué criterio de planificación minimiza el tiempo que un proceso pasa en la cola de preparados?",
+    "options": {
+      "A": "Tiempo de respuesta",
+      "B": "Tiempo de ejecución",
+      "C": "Tiempo de espera",
+      "D": "Tasa de procesamiento"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "En un sistema de planificación por prioridades, si dos procesos tienen la misma prioridad, ¿cuál es el criterio de desempate habitual?",
+    "options": {
+      "A": "FIFO",
+      "B": "FCFS",
+      "C": "SJF",
+      "D": "Round-Robin"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "El algoritmo SJF (Shortest Job First) se caracteriza por:",
+    "options": {
+      "A": "Minimizar el tiempo de espera promedio",
+      "B": "Maximizar el uso de CPU",
+      "C": "Dar prioridad a procesos con mayor tiempo de ráfaga",
+      "D": "Ser expropiativo en todos los casos"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "¿Cómo se define el 'quantum' en el algoritmo Round-Robin?",
+    "options": {
+      "A": "El tiempo máximo para cada ráfaga de CPU",
+      "B": "El intervalo de tiempo que cada proceso tiene en la CPU",
+      "C": "La cantidad de procesos en la cola",
+      "D": "La prioridad de cada proceso"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿Qué es una cola de planificación?",
+    "options": {
+      "A": "Un conjunto de algoritmos que gestionan el hardware",
+      "B": "Un sistema de organización de archivos",
+      "C": "Un mecanismo para organizar procesos según su estado",
+      "D": "Una lista de usuarios del sistema operativo"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "El 'efecto convoy' ocurre en:",
+    "options": {
+      "A": "Round-Robin",
+      "B": "FCFS",
+      "C": "SJF expropiativo",
+      "D": "Planificación por prioridades"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿Cuál de las siguientes NO es una parte de un proceso?",
+    "options": {
+      "A": "Código",
+      "B": "Pila",
+      "C": "Procesador",
+      "D": "Montón"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "En un sistema de planificación expropiativa, un proceso:",
+    "options": {
+      "A": "Controla la CPU hasta que decide liberarla",
+      "B": "Puede ser desalojado de la CPU antes de terminar",
+      "C": "Tiene el control de la memoria del sistema",
+      "D": "Ejecuta una tarea continua sin interrupciones"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿Qué algoritmo de planificación favorece a los procesos con ráfagas cortas de CPU?",
+    "options": {
+      "A": "SJF",
+      "B": "FCFS",
+      "C": "Round-Robin",
+      "D": "Prioridad cooperativa"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "¿Qué implica un cambio de contexto en la planificación de procesos?",
+    "options": {
+      "A": "Reubicar archivos en la memoria",
+      "B": "Almacenar el estado de un proceso y cargar el de otro",
+      "C": "Cambiar la prioridad del proceso en ejecución",
+      "D": "Transferir datos entre dispositivos de E/S"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿Cuál es el estado de un proceso que está listo para ejecutarse pero espera su turno?",
+    "options": {
+      "A": "Nuevo",
+      "B": "Ejecutando",
+      "C": "Preparado",
+      "D": "Terminado"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "¿Cuál de los siguientes algoritmos es una variante expropiativa de SJF?",
+    "options": {
+      "A": "FCFS",
+      "B": "Round-Robin",
+      "C": "SRTF (Shortest-Remaining-Time First)",
+      "D": "FIFO"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "¿Qué es un proceso en un sistema operativo?",
+    "options": {
+      "A": "Un conjunto de instrucciones almacenadas en un archivo",
+      "B": "Un programa en ejecución que representa la unidad de trabajo en el sistema operativo",
+      "C": "Un bloque de memoria reservado para datos temporales",
+      "D": "Una función del sistema para organizar archivos"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿En qué consiste el algoritmo FCFS (First-Come, First-Served)?",
+    "options": {
+      "A": "Se ejecuta el proceso con la mayor prioridad",
+      "B": "Se ejecuta el proceso que más tiempo ha esperado",
+      "C": "Se ejecuta el proceso que llega primero",
+      "D": "Se ejecuta el proceso con menor ráfaga de CPU"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "¿Cuál es la función principal de las colas multinivel en planificación de CPU?",
+    "options": {
+      "A": "Optimizar la ejecución en tiempo real",
+      "B": "Agrupar procesos con distintas prioridades y requisitos",
+      "C": "Evitar el envejecimiento de procesos",
+      "D": "Reducir el número de cambios de contexto"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿Cuál es la principal desventaja de FCFS?",
+    "options": {
+      "A": "Es cooperativo",
+      "B": "No es compatible con E/S",
+      "C": "No asegura tiempos mínimos de espera",
+      "D": "Permite cambios de contexto"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "¿Qué técnica permite evitar la 'muerte por inanición' en planificación por prioridades?",
+    "options": {
+      "A": "Envejecimiento",
+      "B": "SJF",
+      "C": "FCFS",
+      "D": "Round-Robin"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "En la planificación Round-Robin, si el quantum es demasiado pequeño:",
+    "options": {
+      "A": "Los cambios de contexto aumentan",
+      "B": "Los procesos no pueden completar su ráfaga",
+      "C": "Se reduce el tiempo de espera",
+      "D": "Los procesos se ejecutan en modo cooperativo"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "¿Qué contiene el Bloque de Control de Proceso (PCB)?",
+    "options": {
+      "A": "La memoria virtual del sistema operativo",
+      "B": "Las rutinas del sistema de archivos",
+      "C": "El estado y atributos del proceso",
+      "D": "El código fuente del sistema operativo"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "En el algoritmo de planificación por prioridades, el valor numérico menor de prioridad generalmente indica:",
+    "options": {
+      "A": "Mayor importancia del proceso",
+      "B": "Baja importancia del proceso",
+      "C": "Una ráfaga de CPU larga",
+      "D": "Un quantum reducido"
+    },
+    "answer": "A"
+  }
+]

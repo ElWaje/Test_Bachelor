@@ -1,0 +1,202 @@
+[
+  {
+    "question": "¿Cuál de las siguientes afirmaciones describe mejor una red WAN?",
+    "options": {
+      "A": "Red que connecta dispositivos dentro de una área pequeña, como una oficina",
+      "B": "Red que connecta múltiples redes locales sobre grandes distancias geográficas",
+      "C": "Red que connecta múltiples dispositius a un sol ordinador",
+      "D": "Red destinada solo para la comunicación interna de una empresa"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿Cuál de las siguientes características es común a todas las redes WAN?",
+    "options": {
+      "A": "Tienen una latencia muy baja",
+      "B": "Se conectan a través de cables submarinos, enlaces satélites y fibra óptica",
+      "C": "Están restringidas a una única ubicación geográfica",
+      "D": "No necesitan mecanismos de seguridad avanzados"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿Qué tecnología ofrece una capa adicional de seguridad a las redes WAN?",
+    "options": {
+      "A": "VPN (Red Privada Virtual)",
+      "B": "DNS",
+      "C": "TCP/IP",
+      "D": "Ethernet"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "¿Qué amenaza típica pueden sufrir las redes WAN?",
+    "options": {
+      "A": "Acceso restringido a las redes internas",
+      "B": "Sólo ataques de phishing",
+      "C": "Filtraciones de datos internos",
+      "D": "Intercepción de datos y ataques DDoS"
+    },
+    "answer": "D"
+  },
+  {
+    "question": "¿Cuál de las siguientes afirmaciones es cierta sobre las tecnologías de redes WAN como MPLS y SD-WAN?",
+    "options": {
+      "A": "Son útiles solo para redes LAN pequeñas",
+      "B": "Permiten gestionar el tráfico de manera eficiente y flexible, mejorando el rendimiento y reduciendo costos",
+      "C": "Sólo son utilizadas en entornos de conexiones locales",
+      "D": "No pueden ser utilizadas para grandes empresas"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿Qué tecnologías se utilizan en una red WAN moderna?",
+    "options": {
+      "A": "SMTP, DNS",
+      "B": "MPLS, SD-WAN, VPN",
+      "C": "Ethernet, Wi-Fi",
+      "D": "Bluetooth, Zigbee"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿Qué tecnología se utiliza para garantizar la redundancia en una red WAN?",
+    "options": {
+      "A": "Ethernet",
+      "B": "Wi-Fi",
+      "C": "Caminos alternativos y failover automático",
+      "D": "Únicamente servidores dedicados"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "¿Qué medios de transmisión son típicos en redes WAN?",
+    "options": {
+      "A": "Ethernet y Wi-Fi",
+      "B": "Cables submarinos, enlaces satélites y fibra óptica",
+      "C": "Líneas telefónicas locales",
+      "D": "Redes de radio"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿Cuál es la función de los multiplexores en una red WAN?",
+    "options": {
+      "A": "Asegurarse de que solo un usuario acceda a la red en un momento determinado",
+      "B": "Combinar múltiples flujos de datos en un solo canal de transmisión",
+      "C": "Asignar direcciones IP a dispositivos",
+      "D": "Generar informes de uso de la red"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿Cuáles son las estrategias de interconexión más comunes para redes WAN?",
+    "options": {
+      "A": "Conexiones de tipo Ethernet",
+      "B": "Hubs regionales y estructuras jerárquicas",
+      "C": "Únicamente conexiones a través de cables submarinos",
+      "D": "Utilización de satélites para la comunicación entre nodos"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿Cuál es la principal diferencia entre una LAN y una WAN?",
+    "options": {
+      "A": "Las LAN conectan oficinas globales, mientras que las WAN conectan edificios pequeños",
+      "B": "Las LAN operan en áreas pequeñas, mientras que las WAN cubren áreas geográficas grandes",
+      "C": "Las WAN son más lentas que las LAN por su distancia más corta",
+      "D": "Las LAN utilizan satélites y las WAN utilizan cables físicos"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿Cuáles son los estándares relevantes para la seguridad en redes WAN?",
+    "options": {
+      "A": "IEEE 802.1AE (MACSec) y RFC 2547",
+      "B": "HTTP y FTP",
+      "C": "SMTP y POP3",
+      "D": "DNSSEC y ARP"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "¿Cuál es la función principal de un router en una red WAN?",
+    "options": {
+      "A": "Gestionar las conexiones Wi-Fi",
+      "B": "Encaminar los datos entre diferentes redes locales a través de la WAN",
+      "C": "Establecer conexiones de fibra óptica",
+      "D": "Crear una conexión segura para las redes locales"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿Cuáles son los componentes principales de una red WAN?",
+    "options": {
+      "A": "Dispositivos móviles y routers",
+      "B": "Routers, multiplexores y satélites",
+      "C": "Servidores de correo electrónico y webs",
+      "D": "Únicamente cables de fibra óptica"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿Cuál es la importancia del monitoreo centralizado en una red WAN?",
+    "options": {
+      "A": "Permite la mejora del rendimiento de las aplicaciones locales",
+      "B": "Mejora la calidad de la conectividad de Internet",
+      "C": "Sólo es útil para conexiones internas",
+      "D": "Detecta anomalías e intrusiones en tiempo real"
+    },
+    "answer": "D"
+  },
+  {
+    "question": "¿Qué tipo de protección de seguridad se utiliza en una red WAN para proteger los datos?",
+    "options": {
+      "A": "Únicamente cortafuegos",
+      "B": "Encriptación y túneles IPsec",
+      "C": "Protección contra virus",
+      "D": "Únicamente antivirus"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿Cuál es una de las principales características de las SD-WAN?",
+    "options": {
+      "A": "Requieren una infraestructura física intensiva",
+      "B": "Utilizan software para gestionar las conexiones, mejorando la flexibilidad y reduciendo los costos",
+      "C": "Son más lentas que las redes WAN tradicionales",
+      "D": "Sólo pueden ser utilizadas en redes de pequeñas empresas"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿Qué protocolos de comunicación se utilizan para gestionar el encaminamiento de datos en una red WAN?",
+    "options": {
+      "A": "SMTP y HTTP",
+      "B": "BGP, OSPF, IS-IS",
+      "C": "IPsec y TLS",
+      "D": "IMAP y SNMP"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿Qué significa MPLS?",
+    "options": {
+      "A": "Multiprotocol Label Switching",
+      "B": "Protocolo Local Móvil para la Seguridad",
+      "C": "Software de Procesamiento Local Gestionado",
+      "D": "Sistema de Protocolo de Múltiples Capas"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "¿Qué se debe considerar a la hora de diseñar una red WAN?",
+    "options": {
+      "A": "Únicamente la disponibilidad de ancho de banda",
+      "B": "Escalabilidad, latencia y ancho de banda",
+      "C": "Sólo la velocidad de transmisión de los datos",
+      "D": "El tipo de equipamiento en cada sede"
+    },
+    "answer": "B"
+  }
+]

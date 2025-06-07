@@ -1,0 +1,202 @@
+[
+  {
+    "question": "¿Qué son los entornos multi-cloud?",
+    "options": {
+      "A": "Únicamente entornos con múltiples servidores en la nube",
+      "B": "Únicamente entornos en los que los recursos se gestionan localmente",
+      "C": "Entornos que utilizan servicios de diversos proveedores de nube para mejorar la flexibilidad y evitar la dependencia de un solo proveedor",
+      "D": "Entornos donde solo se utiliza una plataforma en la nube para gestionar todos los servicios"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "¿Qué plataformas se pueden utilizar para orquestar contenedores en la nube?",
+    "options": {
+      "A": "Kubernetes y Docker Swarm",
+      "B": "Google Cloud Functions",
+      "C": "AWS EC2",
+      "D": "Sólo Kubernetes"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "¿Cuáles son las plataformas de nube más populares?",
+    "options": {
+      "A": "Kubernetes, Docker y Ansible",
+      "B": "AWS, Azure y Google Cloud",
+      "C": "AWS",
+      "D": "Google Cloud"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿Qué herramienta se utiliza para gestionar microservicios de manera eficiente en la nube?",
+    "options": {
+      "A": "Ansible y Terraform",
+      "B": "Kubernetes",
+      "C": "Docker Swarm",
+      "D": "Apache Kafka"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿Qué función tiene Terraform en el contexto de la gestión de infraestructura en la nube?",
+    "options": {
+      "A": "Gestiona la infraestructura como código, permitiendo la creación, actualización y mantenimiento automático de recursos en la nube",
+      "B": "Proporciona almacenamiento de datos",
+      "C": "Sirve para orquestar contenedores",
+      "D": "Proporciona servicios de seguridad a las aplicaciones"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "¿Qué servicio de Microsoft Azure se utiliza para ejecutar aplicaciones en la nube?",
+    "options": {
+      "A": "Máquinas Virtuales de Azure",
+      "B": "Google Compute Engine",
+      "C": "Google BigQuery",
+      "D": "AWS Lambda"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "¿Cómo se gestiona la seguridad en AWS, Azure y Google Cloud?",
+    "options": {
+      "A": "Sólo con firewalls",
+      "B": "Únicamente con contraseñas",
+      "C": "Mediante herramientas IAM (Identity and Access Management) que controlen el acceso a recursos según los permisos",
+      "D": "No se puede gestionar la seguridad de manera centralizada"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "¿Qué es un servicio de bases de datos relacional en la nube como RDS de AWS?",
+    "options": {
+      "A": "Permite gestionar bases de datos relacionales como MySQL y PostgreSQL sin tener que gestionar la infraestructura",
+      "B": "Es un servicio de almacenamiento de archivos",
+      "C": "Sirve para gestionar redes virtuales",
+      "D": "Es un servicio exclusivo para desarrolladores"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "¿Qué hace AWS Lambda?",
+    "options": {
+      "A": "Almacenar archivos",
+      "B": "Desplegar contenedores",
+      "C": "Gestiona servicios de bases de datos",
+      "D": "Permite ejecutar código en respuesta a eventos sin gestionar servidores"
+    },
+    "answer": "D"
+  },
+  {
+    "question": "¿Qué herramienta permite gestionar la seguridad y los accesos a servicios en la nube de manera centralizada?",
+    "options": {
+      "A": "AWS S3",
+      "B": "Google Cloud Storage",
+      "C": "Kubernetes",
+      "D": "IAM (Gestión de Identidad y Acceso)"
+    },
+    "answer": "D"
+  },
+  {
+    "question": "¿Qué plataforma se utiliza para crear y gestionar infraestructuras como código (IaC)?",
+    "options": {
+      "A": "Google Cloud Functions",
+      "B": "Azure DevOps",
+      "C": "Terraform",
+      "D": "Microsoft PowerShell"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "¿Qué es la gestión de recursos computacionales en la nube?",
+    "options": {
+      "A": "La creación de servidores dedicados exclusivamente para cada aplicación",
+      "B": "El mantenimiento manual de todas las máquinas físicas",
+      "C": "La asignación dinámica de máquinas virtuales y otros recursos según la demanda de la aplicación",
+      "D": "El uso exclusivo de servidores en la nube"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "¿Qué servicio proporciona AWS para gestionar la infraestructura como código (IaC)?",
+    "options": {
+      "A": "AWS CloudFormation",
+      "B": "AWS Lambda",
+      "C": "EC2",
+      "D": "Google Cloud Functions"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "¿Cuáles son las funciones de CloudWatch en AWS?",
+    "options": {
+      "A": "Crear máquinas virtuales",
+      "B": "Gestionar bases de datos relacionales",
+      "C": "Monitorar el rendimiento de las instancias EC2 y generar alertas de incidentes de manera automática",
+      "D": "Crear servicios serverless"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "¿Cuál de los siguientes es una ventaja del uso de servicios serverless en la nube?",
+    "options": {
+      "A": "Mayor control sobre los servidores",
+      "B": "Necesita una configuración manual constante de los servidores",
+      "C": "Permite ejecutar código sin gestionar servidores, mejorando la agilidad y reduciendo costos operativos",
+      "D": "No tiene aplicación para entornos dinámicos"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "¿Qué herramienta ayuda a automatizar los procesos de orquestación de contenedores?",
+    "options": {
+      "A": "Docker",
+      "B": "Kubernetes",
+      "C": "AWS EC2",
+      "D": "Google BigQuery"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿Cuál es la principal diferencia entre el cloud computing básico y el cloud computing avanzado?",
+    "options": {
+      "A": "El cloud computing básico incluye servicios de virtualización, mientras que el avanzado no.",
+      "B": "El cloud computing básico se centra en servicios de almacenamiento sencillos, mientras que el avanzado incluye servicios como la creación de infraestructuras como código (IaC) y la gestión de múltiples nubes.",
+      "C": "El cloud computing avanzado incluye gestión dinámica de recursos y automatización, mientras que el básico se centra en servicios generales como el almacenamiento.",
+      "D": "No hay diferencias claras entre ambos"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿Qué servicio en la nube de Google se utiliza para el análisis de datos masivos?",
+    "options": {
+      "A": "AWS EC2",
+      "B": "BigQuery",
+      "C": "Lambda",
+      "D": "Cosmos DB"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿Qué hace el servicio EC2 de AWS?",
+    "options": {
+      "A": "Almacena datos de manera segura",
+      "B": "Realiza análisis de datos",
+      "C": "Despliega servicios de microservicios",
+      "D": "Proporciona máquinas virtuales para ejecutar aplicaciones en la nube"
+    },
+    "answer": "D"
+  },
+  {
+    "question": "¿Qué estrategia se utiliza para optimizar los costos en sistemas en la nube?",
+    "options": {
+      "A": "Aumentar la capacidad de los servidores permanentemente",
+      "B": "Utilizar el autoescalado y reservar instancias a largo plazo para reducir costos",
+      "C": "Utilizar solo recursos locales",
+      "D": "No utilizar recursos de nube pública"
+    },
+    "answer": "B"
+  }
+]

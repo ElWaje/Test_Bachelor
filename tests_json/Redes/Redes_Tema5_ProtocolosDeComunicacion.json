@@ -1,0 +1,135 @@
+[
+  {
+    "question": "1. ¿Cuál es la principal mejora que aporta TLS 1.3 respecto a versiones anteriores?",
+    "options": {
+      "A": "Únicamente mejora en la compatibilidad con dispositivos antiguos\nB. Soporte para conexiones inalámbricas\nC. Mayor flexibilidad en las configuraciones de red\nD. Mejora en la velocidad y seguridad de las comunicaciones"
+    },
+    "answer": null
+  },
+  {
+    "question": "2. ¿Qué velocidad de transmisión soporta NG-PON2?",
+    "options": {
+      "A": "1 Gbps\nB. 10 Gbps\nC. 40 Gbps\nD. 100 Gbps"
+    },
+    "answer": null
+  },
+  {
+    "question": "3. ¿Qué hace el protocolo Zigbee en redes híbridas?",
+    "options": {
+      "A": "Mejora la latencia en redes móviles\nB. Aumenta la seguridad de las redes Wi-Fi\nC. Permite comunicaciones de baja potencia y es ideal para redes en malla\nD. Ofrece alta potencia para la transmisión de datos"
+    },
+    "answer": null
+  },
+  {
+    "question": "4. ¿Cómo ha evolucionado el protocolo HTTP a través del tiempo?",
+    "options": {
+      "A": "De HTTP a HTTP/2 con mejoras en el rendimiento\nB. De HTTP a HTTPS, añadiendo TLS para una comunicación segura\nC. De HTTP/2 a HTTP/3 con mejoras de seguridad\nD. De HTTP a FTP para mejorar la transferencia de datos"
+    },
+    "answer": null
+  },
+  {
+    "question": "5. ¿Qué protocolo diseñado para aplicaciones web modernas combina velocidad y seguridad?",
+    "options": {
+      "A": "QUIC\nB. TLS\nC. HTTPS\nD. HTTP"
+    },
+    "answer": null
+  },
+  {
+    "question": "6. ¿Qué significa el término \"Zero Trust\" en seguridad de redes?",
+    "options": {
+      "A": "El sistema acepta todas las conexiones sin comprobar\nB. Sólo los usuarios externos están verificados\nC. Los usuarios no han de ser autenticados\nD. Ninguna entidad se considera de confianza por defecto, y se requiere autenticación continua"
+    },
+    "answer": null
+  },
+  {
+    "question": "7. ¿Qué herramientas se utilizan para configurar redes modernas con protocolos avanzados?",
+    "options": {
+      "A": "Ansible y Terraform para la automatización de la configuración\nB. Cisco Packet Tracer\nC. GNS3\nD. VirtualBox"
+    },
+    "answer": null
+  },
+  {
+    "question": "8. ¿Qué son los protocolos de comunicación y por qué son importantes?",
+    "options": {
+      "A": "Un conjunto de reglas para la seguridad de las redes\nB. Un conjunto de reglas para garantizar la compatibilidad y la eficiencia en la comunicación entre dispositivos\nC. Reglas para gestionar tráfico solo a través de redes inalámbricas\nD. Métodos para encriptar datos"
+    },
+    "answer": null
+  },
+  {
+    "question": "9. ¿Qué protocolos Ethernet se utilizan para redes de alto rendimiento?",
+    "options": {
+      "A": "IEEE 802.3 con soporte para velocidades de hasta 400Gbps y QoS\nB. Ethernet 10BASE-T\nC. Ethernet 100BASE-T\nD. Ethernet 1000BASE-T"
+    },
+    "answer": null
+  },
+  {
+    "question": "10. ¿Cuál es la diferencia clave entre MQTT y CoAP en IoT?",
+    "options": {
+      "A": "MQTT es más adecuado para entornos con alta latencia\nB. CoAP se utiliza en sistemas de comunicación en tiempo real\nC. MQTT se utiliza en redes 5G\nD. MQTT es mejor para comunicaciones continuas, mientras que CoAP es ideal para transmisiones con alta latencia"
+    },
+    "answer": null
+  },
+  {
+    "question": "11. ¿Cuál es la función de protocolos como Bluetooth Low Energy (BLE) y Thread en IoT?",
+    "options": {
+      "A": "Permitir la conexión de dispositivos a través de Wi-Fi\nB. Aumentar la velocidad de transmisión de datos en redes móviles\nC. Mejorar el consumo de batería de dispositivos móviles\nD. Garantizar la interoperabilidad entre dispositivos heterogéneos"
+    },
+    "answer": null
+  },
+  {
+    "question": "12. ¿Qué velocidad teórica puede alcanzar el protocolo 5G?",
+    "options": {
+      "A": "1 Gbps\nB. 10 Gbps\nC. Hasta 10 Gbps\nD. 100 Gbps"
+    },
+    "answer": null
+  },
+  {
+    "question": "13. ¿Cuáles son las características de Wi-Fi 6 y Wi-Fi 7?",
+    "options": {
+      "A": "Wi-Fi 6 proporciona alta latencia en entornos densos\nB. Wi-Fi 7 no ofrece mejoras significativas sobre Wi-Fi 6\nC. Wi-Fi 6 ofrece velocidades de hasta 2 Gbps\nD. Wi-Fi 6 llega hasta 9,6 Gbps, mientras que Wi-Fi 7 puede llegar a 46 Gbps"
+    },
+    "answer": null
+  },
+  {
+    "question": "14. ¿Cuál de las siguientes tecnologías es más utilizada en IoT para la transmisión de datos a larga distancia con bajo consumo energético?",
+    "options": {
+      "A": "LoRaWAN\nB. Bluetooth\nC. Zigbee\nD. Wi-Fi"
+    },
+    "answer": null
+  },
+  {
+    "question": "15. ¿Qué tecnología emergente garantiza transmisiones con latencia ultrabaja y sincronización precisa?",
+    "options": {
+      "A": "MQTT\nB. Zigbee\nC. Redes Sensibles al Tiempo (TSN)\nD. Bluetooth de Baja Energía"
+    },
+    "answer": null
+  },
+  {
+    "question": "16. ¿Qué protocolo se utiliza principalmente para garantizar la seguridad en redes IP?",
+    "options": {
+      "A": "IPsec\nB. TLS\nC. QUIC\nD. HTTP"
+    },
+    "answer": null
+  },
+  {
+    "question": "17. ¿Qué tecnología móvil es la más avanzada en conexiones inalámbricas hasta el momento?",
+    "options": {
+      "A": "LTE-A Pro\nB. 5G\nC. 6G\nD. LTE"
+    },
+    "answer": null
+  },
+  {
+    "question": "19. ¿Cuáles son las ventajas de los protocolos modernos como QUIC?",
+    "options": {
+      "A": "Reducción de la latencia y mejora del rendimiento en aplicaciones web\nB. Mejora de la seguridad en redes Wi-Fi\nC. Mejora de la calidad de servicio solo para redes cableadas\nD. Aumento de la compatibilidad con redes de 5G"
+    },
+    "answer": null
+  },
+  {
+    "question": "20. ¿Cuál de las siguientes afirmaciones es cierta sobre la implementación de protocolos como IPv6?",
+    "options": {
+      "A": "IPv6 es una alternativa a Wi-Fi\nB. IPv6 no soporta multicast\nC. IPv6 ofrece un espacio de direcciones prácticamente ilimitado y mejoras en seguridad\nD. IPv6 no permite la seguridad avanzada como IPv4"
+    },
+    "answer": null
+  }
+]

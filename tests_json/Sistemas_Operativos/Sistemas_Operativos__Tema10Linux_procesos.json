@@ -1,0 +1,202 @@
+[
+  {
+    "question": "¿Qué función de colas de mensajes permite recibir solo mensajes de un tipo específico?",
+    "options": {
+      "A": "msgsnd()",
+      "B": "sem_wait()",
+      "C": "msgrcv()",
+      "D": "shmat()"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "¿Qué significa la función sem_post() en la gestión de semáforos POSIX?",
+    "options": {
+      "A": "Disminuye el contador del semáforo",
+      "B": "Elimina el semáforo",
+      "C": "Cierra el acceso al recurso",
+      "D": "Incrementa el contador del semáforo"
+    },
+    "answer": "D"
+  },
+  {
+    "question": "¿Cuál de los siguientes es un tipo de semáforo que solo puede tener valores 0 o 1?",
+    "options": {
+      "A": "Semáforo de conteo",
+      "B": "Semáforo binario",
+      "C": "Semáforo de memoria compartida",
+      "D": "Semáforo de mensajes"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿Qué ocurre cuando un proceso llama a sem_wait() y el semáforo tiene un valor de 0?",
+    "options": {
+      "A": "El proceso sigue ejecutándose normalmente",
+      "B": "El proceso se bloquea hasta que el semáforo sea mayor que 0",
+      "C": "El semáforo se restablece a 1",
+      "D": "Ninguna de las anteriores"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "En el modelo de comunicación mediante pipes, ¿qué descriptor de archivo es utilizado para escribir?",
+    "options": {
+      "A": "fd[0]",
+      "B": "write(fd[1], …)",
+      "C": "fd[1]",
+      "D": "Ninguno de los anteriores"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "En el mecanismo de pipes, ¿qué función permite al proceso hijo leer un mensaje enviado por el proceso padre?",
+    "options": {
+      "A": "send()",
+      "B": "msgget()",
+      "C": "read(fd[0], …)",
+      "D": "recv()"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "¿Qué operación realiza msgsnd() en la gestión de colas de mensajes?",
+    "options": {
+      "A": "Envía un mensaje a la cola",
+      "B": "Recibe un mensaje de la cola",
+      "C": "Elimina la cola de mensajes",
+      "D": "Bloquea el acceso a la cola"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "¿Qué función debe usarse para anexar un segmento de memoria compartida al espacio de direcciones de un proceso?",
+    "options": {
+      "A": "shmat()",
+      "B": "shmctl()",
+      "C": "shmdt()",
+      "D": "msgrcv()"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "¿Cuál es el propósito de sem_unlink() en la gestión de semáforos?",
+    "options": {
+      "A": "Elimina el semáforo del sistema",
+      "B": "Cierra el semáforo para un proceso específico",
+      "C": "Crea un semáforo temporal",
+      "D": "Ninguna de las anteriores"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "En una llamada a fork(), ¿qué valor devuelve el proceso hijo?",
+    "options": {
+      "A": "0",
+      "B": "PID del padre",
+      "C": "-1",
+      "D": "PID del abuelo"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Para crear o acceder a un segmento de memoria compartida en Linux, se utiliza:",
+    "options": {
+      "A": "msgget()",
+      "B": "shmget()",
+      "C": "msgrcv()",
+      "D": "memopen()"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿En qué estructura de datos se almacenan los mensajes que envía un proceso para que otro los reciba más tarde?",
+    "options": {
+      "A": "Segmento de memoria compartida",
+      "B": "Descriptor de archivo",
+      "C": "Cola de mensajes",
+      "D": "Semáforo"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "¿Cuál es la función principal de fork() en la gestión de procesos en Linux?",
+    "options": {
+      "A": "Duplica el proceso padre para crear un proceso hijo con la misma ID",
+      "B": "Divide la CPU en dos hilos",
+      "C": "Crea un nuevo proceso hijo duplicando el proceso padre",
+      "D": "Cierra el proceso padre al finalizar el hijo"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "¿Qué sistema de comunicación de procesos permite la sincronización sin que los procesos se ejecuten simultáneamente?",
+    "options": {
+      "A": "pipes",
+      "B": "Memoria compartida",
+      "C": "fork()",
+      "D": "Colas de mensajes"
+    },
+    "answer": "D"
+  },
+  {
+    "question": "¿Qué se entiende por “condición de carrera”?",
+    "options": {
+      "A": "Un estado en el que un proceso ejecuta su código dos veces",
+      "B": "Un error al ejecutar procesos simultáneos",
+      "C": "Cuando dos procesos intentan acceder a un recurso compartido sin sincronización adecuada",
+      "D": "Conflicto en el acceso a un recurso compartido sin coordinación"
+    },
+    "answer": "D"
+  },
+  {
+    "question": "¿Qué función se usa para crear una cola de mensajes en C?",
+    "options": {
+      "A": "msgget()",
+      "B": "msgctl()",
+      "C": "shmget()",
+      "D": "sem_open()"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "¿Cuál de los siguientes comandos en C se utiliza para esperar que un proceso hijo finalice?",
+    "options": {
+      "A": "pause()",
+      "B": "wait()",
+      "C": "resume()",
+      "D": "terminate()"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿Qué estructura de datos se utiliza en la comunicación mediante memoria compartida?",
+    "options": {
+      "A": "Cola de mensajes",
+      "B": "Segmento de memoria accesible para varios procesos",
+      "C": "Buffer de almacenamiento",
+      "D": "Archivos temporales"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "En la estructura de memoria compartida, ¿qué función permite a un proceso desaplicar el segmento de memoria compartida?",
+    "options": {
+      "A": "shmctl()",
+      "B": "shmget()",
+      "C": "shmdt()",
+      "D": "shmat()"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "¿Cuál es una ventaja importante de usar memoria compartida sobre pipes?",
+    "options": {
+      "A": "Facilita la creación de procesos",
+      "B": "Permite un acceso más rápido a los datos compartidos",
+      "C": "Bloquea automáticamente los procesos secundarios",
+      "D": "Requiere menos espacio en disco"
+    },
+    "answer": "B"
+  }
+]

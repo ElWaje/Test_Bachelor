@@ -1,0 +1,202 @@
+[
+  {
+    "question": "¿Cuál es la principal ventaja de las SDN (Software-Defined Networking)?",
+    "options": {
+      "A": "Gestionar la seguridad manualmente",
+      "B": "Permite la configuración centralizada de la red separando el plano de control del plano de datos",
+      "C": "Usar redes de conexión por cable únicamente",
+      "D": "Mejorar la seguridad exclusivamente"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿Qué es una red autogestionada (Self-Driving Network)?",
+    "options": {
+      "A": "Una red que utiliza IA para gestionar, configurar y optimizarse automáticamente",
+      "B": "Una red donde los administradores gestionan manualmente los recursos",
+      "C": "Un tipo de red de conexión exclusiva para móviles",
+      "D": "Red que sólo funciona en entornos educativos"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "¿Qué técnica automatizada se utiliza para gestionar la creación de VLANs?",
+    "options": {
+      "A": "Automatización de VLANs con Ansible o scripts basados en Python",
+      "B": "Gestión manual de VLANs",
+      "C": "Ús exclusiu de VLANs dinámicas",
+      "D": "Únicament configuración de switches"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "¿Qué mecanismo se utiliza para monitorear las amenazas en redes automatizadas?",
+    "options": {
+      "A": "Creación de informes manuales",
+      "B": "Monitorización proactiva mediante herramientas de seguridad automatizadas",
+      "C": "Únicamente utilizar antivirus",
+      "D": "Revisiones regulares de seguridad por parte de los administradores"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿Qué herramientas de configuración automatizada se utilizan habitualmente en redes?",
+    "options": {
+      "A": "Windows Server y VMware",
+      "B": "Ansible, Puppet y Chef",
+      "C": "EtherChannel y NAT",
+      "D": "CAPWAP y LWAPP"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿Cuál de las siguientes herramientas se utiliza para automatizar tareas repetitivas como la configuración de dispositivos de red?",
+    "options": {
+      "A": "Ansible, Puppet y Chef",
+      "B": "Google Cloud y AWS",
+      "C": "CAPWAP y LWAPP",
+      "D": "ARP y ICMP"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "¿Cuál de los siguientes protocolos es utilizado para la gestión de redes inalámbricas?",
+    "options": {
+      "A": "CAPWAP",
+      "B": "SNMP",
+      "C": "TCP/IP",
+      "D": "ARP"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "¿Qué opción de las siguientes mejora la calidad del tráfico a través de la red?",
+    "options": {
+      "A": "Únicamente la priorización de tráfico por protocolos como HTTP",
+      "B": "La aplicación de políticas QoS mediante scripts automatizados",
+      "C": "Uso exclusivo de VLANs dinámicas",
+      "D": "Reducir el nombre de dispositivos en la red"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿Qué es la automatización de redes?",
+    "options": {
+      "A": "Un proceso manual para configurar redes",
+      "B": "El uso de herramientas y software para gestionar y optimizar redes de manera automática",
+      "C": "Un tipo de seguridad en redes locales",
+      "D": "Un tipo de cable utilizado para redes"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿Cómo se gestionan los certificados y la autenticación en red automatizada?",
+    "options": {
+      "A": "Mediante herramientas centralizadas y autenticación multifactor automática",
+      "B": "A través de la configuración manual de cada dispositivo",
+      "C": "Únicamente con contraseñas",
+      "D": "Mediante archivos de configuración externos"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "¿Qué es el roaming automatizado en redes Wi-Fi?",
+    "options": {
+      "A": "El cambio automático entre puntos de acceso para mantener una conexión estable",
+      "B": "Una técnica para aumentar la velocidad de la conexión Wi-Fi",
+      "C": "El cambio entre redes LAN y WAN",
+      "D": "Un proceso para proteger las redes Wi-Fi con contraseñas"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "¿Qué tipos de protocolos se utilizan para la integración de herramientas de automatización?",
+    "options": {
+      "A": "APIs RESTful",
+      "B": "HTTP y HTTPS",
+      "C": "SNMP y DNS",
+      "D": "UDP e ICMP"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "¿Cuál es una de las aplicaciones clave de la automatización de redes en las smart cities?",
+    "options": {
+      "A": "Integrar servicios urbanos conectados como el alumbrado inteligente o el control del tráfico",
+      "B": "Mejorar el tráfico de Wi-Fi exclusivamente",
+      "C": "Aumentar la capacidad de almacenamiento de datos",
+      "D": "Crear conexiones de red exclusivas para móviles"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "¿Qué herramientas se pueden utilizar para el monitoreo y resolución de problemas en redes cableadas?",
+    "options": {
+      "A": "NetFlow, Nagios",
+      "B": "Wi-Fi y Ethernet",
+      "C": "DNS y DHCP",
+      "D": "Ansible y Puppet"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "¿Cuáles son los principales beneficios de la automatización en redes con y sin cables?",
+    "options": {
+      "A": "Aumentar costos y complejidad",
+      "B": "Mejora del tiempo de respuesta, estandarización y reducción de costos operativos",
+      "C": "Exclusivamente para redes inalámbricas",
+      "D": "Reducción de la seguridad en la red"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿Cuáles son las tendencias en automatización para entornos híbridos y multi-cloud?",
+    "options": {
+      "A": "Únicamente el uso de redes dedicadas",
+      "B": "La automatización para gestionar tráfico entre nubes y recursos locales, como SD-WAN para priorizar aplicaciones críticas",
+      "C": "Redes sólo basadas en una sola plataforma de nube",
+      "D": "Limitación de automatización en los entornos LAN"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿Qué aplicación tiene la automatización de redes en la industria 4.0?",
+    "options": {
+      "A": "Permite gestionar redes de alto rendimiento que conectan maquinaria y sensores para una producción más eficiente",
+      "B": "Únicamente para gestionar tráfico de Internet",
+      "C": "Para mejorar la conexión entre dispositivos móviles",
+      "D": "No tiene aplicaciones en la industria 4.0"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "¿Qué de las siguientes tecnologías se utiliza para gestionar redes inalámbricas de manera automatizada?",
+    "options": {
+      "A": "Controladores Wi-Fi con protocolos como CAPWAP",
+      "B": "GPRS y Bluetooth",
+      "C": "SDN y NAT",
+      "D": "VPN e IPsec"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "¿Qué protocolo permite gestionar de modo automático el tráfico en red cableada?",
+    "options": {
+      "A": "SNMP y NetFlow",
+      "B": "SMTP y POP3",
+      "C": "HTTP y FTP",
+      "D": "DHCP y DNS"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "¿Qué permite la optimización automatizada de la cobertura Wi-Fi?",
+    "options": {
+      "A": "El uso de más puntos de acceso",
+      "B": "Ajustar automáticamente la potencia de transmisión y los canales para reducir interferencias",
+      "C": "Aislar los dispositivos de la red",
+      "D": "Crear una red de tipo LAN"
+    },
+    "answer": "B"
+  }
+]

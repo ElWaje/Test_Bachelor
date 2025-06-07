@@ -1,0 +1,202 @@
+[
+  {
+    "question": "¿Qué técnica permite utilizar IPv4 e IPv6 simultáneamente en un dispositivo?",
+    "options": {
+      "A": "NAT64",
+      "B": "SLAAC",
+      "C": "Pila Dual",
+      "D": "Túnel"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "¿Cuál es la diferencia principal entre IPv4 e IPv6 en lo que respecta a la seguridad?",
+    "options": {
+      "A": "IPv6 incluye mecanismos de seguridad como IPsec de manera nativa",
+      "B": "IPv6 requiere configuraciones adicionales para la seguridad, mientras que IPv4 ya la incluye",
+      "C": "IPv4 ofrece seguridad nativa mientras que IPv6 no",
+      "D": "No hay diferencias en la seguridad entre IPv4 e IPv6"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "¿Qué permite el tunneling en la transición de IPv4 a IPv6?",
+    "options": {
+      "A": "Asignar direcciones automáticamente a los dispositivos",
+      "B": "Encapsular paquetes IPv6 dentro de paquetes IPv4 para transmitirlos a través de redes IPv4",
+      "C": "Reducción de la latencia en las comunicaciones",
+      "D": "Asegurar la compatibilidad con la red de contenido"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿Qué es el subnetting?",
+    "options": {
+      "A": "El proceso de combinar redes pequeñas para mejorar el uso del espacio de direcciones",
+      "B": "La técnica de asignar direcciones IP automáticamente a dispositivos",
+      "C": "Un protocolo para el encaminamiento de datos a través de diferentes redes",
+      "D": "El proceso de dividir una red grande en subredes más pequeñas"
+    },
+    "answer": "D"
+  },
+  {
+    "question": "¿Cuál de los siguientes es el objetivo principal de la administración de redes?",
+    "options": {
+      "A": "Garantizar la seguridad de los datos privados",
+      "B": "Gestionar los sistemas de comunicación para garantizar que sean seguros, eficientes y operativos",
+      "C": "Reducción del costo de la infraestructura de redes",
+      "D": "Aumentar la velocidad de conexión entre los dispositivos"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿En qué se diferencia IPv6 de IPv4?",
+    "options": {
+      "A": "IPv6 utiliza 32 bits para las direcciones, mientras que IPv4 utiliza 128 bits",
+      "B": "IPv4 es más seguro que IPv6",
+      "C": "IPv6 utiliza 128 bits para las direcciones, mientras que IPv4 utiliza 32 bits",
+      "D": "IPv6 es más lento que IPv4"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "¿Cuál es la finalidad de las VLANs en una red corporativa?",
+    "options": {
+      "A": "Mejorar la cobertura Wi-Fi",
+      "B": "Configurar múltiples direcciones IP para los dispositivos",
+      "C": "Separar el tráfico entre diferentes departamentos para mejorar la seguridad y la eficiencia",
+      "D": "Conectar dispositivos con diferentes protocolos"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "¿Cuál de los siguientes protocolos es más adecuado para garantizar conexiones seguras a través de Internet?",
+    "options": {
+      "A": "HTTP",
+      "B": "FTP",
+      "C": "TLS",
+      "D": "ICMP"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "¿Qué protocolo se utiliza para la comunicación de mensajes de control dentro de una red?",
+    "options": {
+      "A": "ICMP",
+      "B": "HTTP",
+      "C": "ARP",
+      "D": "DHCP"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "¿Cuál es la principal diferencia entre TCP/IP y el modelo OSI?",
+    "options": {
+      "A": "TCP/IP es más complejo que el modelo OSI",
+      "B": "El modelo OSI tiene solo cuatro capas",
+      "C": "TCP/IP es más sencillo, con solo cuatro capas",
+      "D": "El modelo OSI es utilizado exclusivamente para redes locales"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "¿Qué dispositivos son esenciales para la gestión de tráfico dentro de una red local?",
+    "options": {
+      "A": "Dispositivos móviles",
+      "B": "Routers, switches y cortafuegos",
+      "C": "Impresoras y servidores",
+      "D": "Módulos Wi-Fi"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿Qué significa SLAAC en el contexto de la configuración de redes IPv6?",
+    "options": {
+      "A": "Configuración Automática de Dirección de Enlace Estático",
+      "B": "Autoconfiguración de Direcciones Sin Estado",
+      "C": "Configuración de la dirección del enlace simple",
+      "D": "Capa de Seguridad Control Automático de Direcciones"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿Cuál de los siguientes protocolos de configuración automática se utiliza en redes IPv6?",
+    "options": {
+      "A": "SLAAC",
+      "B": "DHCP",
+      "C": "DHCP64",
+      "D": "ARP"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "¿Qué función de las siguientes realiza el protocolo ARP en redes IPv4?",
+    "options": {
+      "A": "Proporciona seguridad para las comunicaciones de red",
+      "B": "Asigna direcciones IP de manera automática",
+      "C": "Establece la configuración de redes inalámbricas",
+      "D": "Resuelve la dirección MAC de un dispositivo a partir de su dirección IP"
+    },
+    "answer": "D"
+  },
+  {
+    "question": "¿Cuál de las siguientes es una función clave del administrador de redes en la gestión de seguridad?",
+    "options": {
+      "A": "Monitorar la latencia de una red",
+      "B": "Implementar cortafuegos y controles de acceso",
+      "C": "Asignar direcciones IP a cada dispositivo",
+      "D": "Configurar el almacenamiento de datos en un servidor"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿Qué función tiene un firewall dentro de una red?",
+    "options": {
+      "A": "Proporcionar ancho de banda adicional",
+      "B": "Controlar el tráfico de red entrante y saliente, bloqueando conexiones no autorizadas",
+      "C": "Asignar direcciones IP de manera automática",
+      "D": "Gestionar las configuraciones de redes Wi-Fi"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿Qué protocolo es fundamental para la comunicación dentro de una red TCP/IP en la capa de transporte?",
+    "options": {
+      "A": "IP",
+      "B": "HTTP",
+      "C": "TCP",
+      "D": "ARP"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "¿Qué protocolo se utiliza para gestionar el encaminamiento entre diferentes redes WAN?",
+    "options": {
+      "A": "BGP",
+      "B": "OSPF",
+      "C": "TCP",
+      "D": "DNS"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "¿Qué tarea NO es responsabilidad de un administrador de redes?",
+    "options": {
+      "A": "Configurar routers y switches",
+      "B": "Diagnosticar problemas de conexión",
+      "C": "Mantener las aplicaciones de usuario final",
+      "D": "Implementar medidas de seguridad, como cortafuegos y control de acceso"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "¿Qué técnica se utiliza para evitar el agotamiento de direcciones IPv4?",
+    "options": {
+      "A": "DHCP",
+      "B": "SLAAC",
+      "C": "NAT (Traducción de Direcciones de Red)",
+      "D": "IPv6"
+    },
+    "answer": "C"
+  }
+]

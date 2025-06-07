@@ -1,0 +1,202 @@
+[
+  {
+    "question": "¿Qué comando permite cambiar el propietario de un archivo?",
+    "options": {
+      "A": "chmod",
+      "B": "useradd",
+      "C": "chown",
+      "D": "groupmod"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "¿Qué archivo contiene configuraciones específicas para la conexión de red en Linux?",
+    "options": {
+      "A": "/dev/net",
+      "B": "/opt/network",
+      "C": "/etc/network/interfaces",
+      "D": "/root/network.conf"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "¿Qué significa el directorio ‘/dev’ en Linux?",
+    "options": {
+      "A": "Almacena scripts de inicio",
+      "B": "Contiene archivos para la gestión de dispositivos",
+      "C": "Es el directorio de usuario",
+      "D": "Almacena archivos de configuración del sistema"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "En el contexto de Linux, ¿qué es un “enlace duro”?",
+    "options": {
+      "A": "Un acceso directo a un archivo en otra ubicación",
+      "B": "Una referencia adicional al mismo archivo con el mismo número de i-nodo",
+      "C": "Un comando que copia archivos",
+      "D": "Un archivo temporal creado por el sistema"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿Qué directorio almacena archivos de registro del sistema?",
+    "options": {
+      "A": "/var/log",
+      "B": "/etc/init.d",
+      "C": "/boot/grub",
+      "D": "/proc"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "¿Cuál de los siguientes directorios es exclusivo para el superusuario?",
+    "options": {
+      "A": "/usr",
+      "B": "/root",
+      "C": "/home",
+      "D": "/tmp"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿Cuál es el propósito del archivo /etc/passwd?",
+    "options": {
+      "A": "Contiene contraseñas de los usuarios encriptadas",
+      "B": "Almacena la información básica de los usuarios",
+      "C": "Define los permisos de grupo",
+      "D": "Configura el sistema de archivos de inicio"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿Qué archivo en Linux contiene la lista de repositorios de software?",
+    "options": {
+      "A": "/usr/config",
+      "B": "/etc/passwd",
+      "C": "/root/bin",
+      "D": "/etc/apt/sources.list"
+    },
+    "answer": "D"
+  },
+  {
+    "question": "¿Cuál es el propósito del comando grep en Linux?",
+    "options": {
+      "A": "Para cambiar permisos",
+      "B": "Para mover archivos",
+      "C": "Para buscar patrones dentro de archivos",
+      "D": "Para ver el historial de comandos"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "¿Qué representa el valor ‘0’ en la lista de permisos de Linux?",
+    "options": {
+      "A": "Permiso de lectura",
+      "B": "Permiso de escritura",
+      "C": "Ningún permiso",
+      "D": "Permiso de ejecución"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "¿Cuál de los siguientes comandos se utiliza para cambiar al directorio raíz en Linux?",
+    "options": {
+      "A": "pwd",
+      "B": "cd /",
+      "C": "ls /",
+      "D": "mkdir /"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿Qué comando se utiliza para ver todas las interfaces de red disponibles en el sistema?",
+    "options": {
+      "A": "ifconfig",
+      "B": "ping",
+      "C": "netstat",
+      "D": "ssh"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "¿Cuál de los siguientes es un editor de texto en Linux que opera en modo terminal?",
+    "options": {
+      "A": "Word",
+      "B": "Notepad++",
+      "C": "vi",
+      "D": "TextEdit"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "¿Cuál es el comando para ver los procesos en ejecución en tiempo real?",
+    "options": {
+      "A": "ps",
+      "B": "top",
+      "C": "chmod",
+      "D": "ls"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿Qué característica fundamental diferencia a Linux de otros sistemas operativos comerciales?",
+    "options": {
+      "A": "Es un sistema operativo de pago",
+      "B": "Solo permite un usuario a la vez",
+      "C": "Es de código abierto y permite personalización",
+      "D": "Funciona exclusivamente en hardware propietario"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "¿Cuál es el comando para ver la ubicación actual en el sistema de archivos?",
+    "options": {
+      "A": "ls",
+      "B": "pwd",
+      "C": "cd",
+      "D": "whereis"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿Qué archivo contiene la configuración de los servicios que se ejecutan al inicio del sistema?",
+    "options": {
+      "A": "/home/config",
+      "B": "/etc/init.d",
+      "C": "/bin/config.sh",
+      "D": "/proc/setup"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿Cómo se identifica al usuario root en el sistema?",
+    "options": {
+      "A": "Con el UID 0",
+      "B": "Con el UID 1",
+      "C": "Con el nombre “admin”",
+      "D": "Con el GID 1"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "¿Para qué se usa el comando chmod en Linux?",
+    "options": {
+      "A": "Para cambiar los permisos de un archivo o directorio",
+      "B": "Para mover un archivo",
+      "C": "Para listar archivos",
+      "D": "Para crear un archivo"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "¿Qué directorio en Linux contiene archivos ejecutables que pueden ser utilizados por todos los usuarios?",
+    "options": {
+      "A": "/usr",
+      "B": "/home",
+      "C": "/bin",
+      "D": "/opt"
+    },
+    "answer": "C"
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "question": "¿Qué caracteriza a un sistema operativo de tiempo real?",
+    "options": {
+      "A": "Permite múltiples usuarios simultáneos.",
+      "B": "Responde inmediatamente a eventos externos.",
+      "C": "Solo permite un proceso a la vez.",
+      "D": "Se utiliza únicamente en entornos empresariales."
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿Qué función cumple el firmware en el proceso de arranque de un sistema?",
+    "options": {
+      "A": "Gestionar las aplicaciones de usuario.",
+      "B": "Iniciar el sistema operativo y verificar el hardware.",
+      "C": "Ejecutar los programas de aplicación.",
+      "D": "Mantener los datos de usuario."
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿Cuál es un ejemplo típico de un sistema operativo de procesamiento por lotes?",
+    "options": {
+      "A": "Windows 10.",
+      "B": "Sistemas bancarios fuera del horario de atención.",
+      "C": "Linux en servidores web.",
+      "D": "Android en dispositivos móviles."
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿Cuál de los siguientes es un ejemplo de sistema operativo en un entorno embebido?",
+    "options": {
+      "A": "macOS.",
+      "B": "FreeRTOS.",
+      "C": "Ubuntu.",
+      "D": "Windows Server."
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿Qué estructura organizativa sigue un sistema operativo monolítico?",
+    "options": {
+      "A": "División modular en varias capas.",
+      "B": "Uso de una interfaz de cliente-servidor.",
+      "C": "Un único bloque de código con todas las funciones.",
+      "D": "Distribución de recursos mediante multihilos."
+    },
+    "answer": "C"
+  },
+  {
+    "question": "¿Qué ventaja ofrece la estructura en capas en un sistema operativo?",
+    "options": {
+      "A": "Acelera el acceso a los dispositivos de hardware.",
+      "B": "Permite la ejecución en múltiples núcleos de CPU.",
+      "C": "Facilita el mantenimiento y la organización modular.",
+      "D": "Mejora la interacción del usuario en tiempo real."
+    },
+    "answer": "C"
+  },
+  {
+    "question": "¿Qué característica tiene un sistema operativo multiprogramado?",
+    "options": {
+      "A": "Ejecuta una sola aplicación en el sistema.",
+      "B": "Permite la ejecución de múltiples programas simultáneamente.",
+      "C": "Gestiona únicamente un procesador.",
+      "D": "Solo opera en sistemas interactivos."
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿Cuál de los siguientes sistemas es un ejemplo de máquina virtual?",
+    "options": {
+      "A": "MS-DOS.",
+      "B": "VMware.",
+      "C": "Android.",
+      "D": "iOS."
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿Qué tipo de tareas maneja un sistema operativo en tiempo real?",
+    "options": {
+      "A": "Proyectos de usuario en segundo plano.",
+      "B": "Procesos críticos con necesidades de respuesta inmediata.",
+      "C": "Tareas de usuario de baja prioridad.",
+      "D": "Solo aplicaciones de escritorio."
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿Qué significa multiprogramación en el contexto de los sistemas operativos?",
+    "options": {
+      "A": "Ejecutar múltiples tareas a la vez en diferentes CPUs.",
+      "B": "Mantener varios programas en memoria para su ejecución.",
+      "C": "Ejecutar múltiples hilos en una sola aplicación.",
+      "D": "Ejecutar un solo programa por vez."
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿Qué sistema operativo fue pionero en el uso de estructuras de cliente-servidor?",
+    "options": {
+      "A": "UNIX.",
+      "B": "Windows NT.",
+      "C": "MS-DOS.",
+      "D": "Android."
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿Qué tipo de sistema operativo se emplea comúnmente en dispositivos IoT?",
+    "options": {
+      "A": "MS-DOS.",
+      "B": "TinyOS.",
+      "C": "Windows 10.",
+      "D": "Solaris."
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿Cuál es el rol de la interfaz de usuario en un sistema operativo?",
+    "options": {
+      "A": "Ejecuta procesos en segundo plano.",
+      "B": "Facilita la interacción entre el usuario y el sistema.",
+      "C": "Gestiona directamente la memoria principal.",
+      "D": "Mantiene los registros de todos los archivos."
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿Qué tipo de sistema operativo permite la interacción directa con el usuario para respuestas inmediatas?",
+    "options": {
+      "A": "Sistema por lotes.",
+      "B": "Sistema interactivo.",
+      "C": "Sistema multiprocesador.",
+      "D": "Sistema cliente-servidor."
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿Qué nivel del sistema operativo gestiona la interfaz gráfica para el usuario?",
+    "options": {
+      "A": "Lógica Digital.",
+      "B": "Microprogramación.",
+      "C": "Aplicaciones.",
+      "D": "Sistema de almacenamiento."
+    },
+    "answer": "C"
+  },
+  {
+    "question": "¿Cómo se clasifica un sistema operativo que permite la ejecución de múltiples procesos en paralelo en diferentes núcleos?",
+    "options": {
+      "A": "Multiprocesador.",
+      "B": "Monousuario.",
+      "C": "Monoproceso.",
+      "D": "Monotarea."
+    },
+    "answer": "A"
+  },
+  {
+    "question": "¿Qué tipo de sistemas operativos fueron comunes en la cuarta generación de ordenadores?",
+    "options": {
+      "A": "Sistemas de procesamiento por lotes.",
+      "B": "Sistemas de tiempo compartido.",
+      "C": "Sistemas sin interfaz gráfica.",
+      "D": "Sistemas de único usuario."
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿Cuál es el propósito principal de la memoria caché en un sistema de computadora?",
+    "options": {
+      "A": "Almacenar permanentemente los datos.",
+      "B": "Facilitar la conexión de periféricos.",
+      "C": "Reducir el tiempo de acceso a datos frecuentes.",
+      "D": "Gestionar los permisos de usuarios."
+    },
+    "answer": "C"
+  },
+  {
+    "question": "¿Cuál es una característica principal de los sistemas operativos monousuario?",
+    "options": {
+      "A": "Permiten la conexión de múltiples usuarios de manera remota.",
+      "B": "Requieren múltiples CPUs para su funcionamiento.",
+      "C": "Solo un usuario puede acceder a los recursos del sistema a la vez.",
+      "D": "Utilizan programación multiproceso."
+    },
+    "answer": "C"
+  },
+  {
+    "question": "¿Qué función principal cumple el sistema operativo en un sistema informático?",
+    "options": {
+      "A": "Gestiona los recursos de software exclusivamente.",
+      "B": "Permite la conexión a redes.",
+      "C": "Administra los recursos de hardware y software.",
+      "D": "Ejecuta aplicaciones directamente en el hardware."
+    },
+    "answer": "C"
+  }
+]

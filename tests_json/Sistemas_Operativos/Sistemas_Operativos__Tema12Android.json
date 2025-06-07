@@ -1,0 +1,202 @@
+[
+  {
+    "question": "¿Cuál de las siguientes opciones describe un Content Provider?",
+    "options": {
+      "A": "Ejecuta tareas en segundo plano",
+      "B": "Permite compartir datos entre aplicaciones",
+      "C": "Escucha eventos del sistema",
+      "D": "Gestiona la interfaz de usuario"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿Qué herramienta permite la comunicación entre componentes de Android?",
+    "options": {
+      "A": "Services",
+      "B": "Broadcasts",
+      "C": "Intents",
+      "D": "Content Providers"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "¿Cuál es el propósito de un Broadcast Receiver?",
+    "options": {
+      "A": "Controlar la interfaz de usuario",
+      "B": "Ejecutar procesos en segundo plano",
+      "C": "Escuchar mensajes del sistema o aplicaciones",
+      "D": "Almacenar datos de usuario"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "¿Qué biblioteca es esencial para el diseño de interfaces en Android?",
+    "options": {
+      "A": "OpenGL",
+      "B": "ART",
+      "C": "Android SDK",
+      "D": "HAL"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "¿Cuál de las siguientes es una característica principal de Android?",
+    "options": {
+      "A": "Es de código cerrado",
+      "B": "No permite multitarea",
+      "C": "No permite personalización",
+      "D": "Es de código abierto"
+    },
+    "answer": "D"
+  },
+  {
+    "question": "¿Cuál es la función principal del Emulador de Android en Android Studio?",
+    "options": {
+      "A": "Crear aplicaciones",
+      "B": "Probar aplicaciones en un entorno simulado",
+      "C": "Diseñar la interfaz de usuario",
+      "D": "Gestionar bases de datos"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿Cuál es un componente clave de la capa de Linux en Android?",
+    "options": {
+      "A": "Intents",
+      "B": "Content Providers",
+      "C": "Gestión de procesos y memoria",
+      "D": "Diseñador de interfaz"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "¿Qué componente de la arquitectura Android facilita el renderizado de gráficos?",
+    "options": {
+      "A": "Activity",
+      "B": "Bibliotecas nativas",
+      "C": "Content Provider",
+      "D": "Broadcast Receiver"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿Cuál es el formato de los paquetes de aplicaciones en Android?",
+    "options": {
+      "A": ".exe",
+      "B": ".apk",
+      "C": ".zip",
+      "D": ".jar"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿Cuál es el rol del Layout en Android?",
+    "options": {
+      "A": "Ejecutar servicios en segundo plano",
+      "B": "Definir la disposición visual de elementos en la pantalla",
+      "C": "Proporcionar APIs para gráficos",
+      "D": "Administrar la seguridad"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿Qué lenguaje de programación es preferido actualmente para el desarrollo de Android?",
+    "options": {
+      "A": "Swift",
+      "B": "JavaScript",
+      "C": "Kotlin",
+      "D": "Ruby"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "¿Qué elemento se utiliza en Android para almacenar datos simples de usuario?",
+    "options": {
+      "A": "SQLite",
+      "B": "Files",
+      "C": "Shared Preferences",
+      "D": "Content Providers"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "¿Qué componente se encarga de gestionar el ciclo de vida de una pantalla en una aplicación Android?",
+    "options": {
+      "A": "Intents",
+      "B": "Activity",
+      "C": "Service",
+      "D": "Content Provider"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿Cuál es el objetivo de la capa de Framework de Aplicaciones?",
+    "options": {
+      "A": "Gestionar procesos",
+      "B": "Controlar el hardware",
+      "C": "Proporcionar herramientas y APIs para el desarrollo de aplicaciones",
+      "D": "Administrar el almacenamiento"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "¿Qué base es fundamental para el desarrollo de Android?",
+    "options": {
+      "A": "macOS",
+      "B": "Linux",
+      "C": "Windows",
+      "D": "FreeBSD"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿Cuál es el propósito principal del archivo AndroidManifest.xml?",
+    "options": {
+      "A": "Diseñar la interfaz de usuario",
+      "B": "Definir la estructura y permisos de la aplicación",
+      "C": "Ejecutar aplicaciones en segundo plano",
+      "D": "Almacenar los datos de usuario"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿En qué año fue lanzada la primera versión comercial de Android?",
+    "options": {
+      "A": "2005",
+      "B": "2010",
+      "C": "2015",
+      "D": "2008"
+    },
+    "answer": "D"
+  },
+  {
+    "question": "¿Cuál es la función principal del Android Runtime (ART)?",
+    "options": {
+      "A": "Renderizar gráficos",
+      "B": "Ejecutar aplicaciones en Java y Kotlin",
+      "C": "Administrar la red",
+      "D": "Controlar el almacenamiento"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿Qué tipo de aplicación permite la capa de Aplicación de Android?",
+    "options": {
+      "A": "Solo aplicaciones del sistema",
+      "B": "Solo aplicaciones de Google",
+      "C": "Aplicaciones de terceros y del sistema",
+      "D": "Aplicaciones de hardware"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "¿Qué función tienen los controladores de hardware en la capa de Linux de Android?",
+    "options": {
+      "A": "Gestionar la memoria",
+      "B": "Permitir la comunicación entre el sistema y el hardware",
+      "C": "Procesar aplicaciones",
+      "D": "Gestionar el ciclo de vida de actividades"
+    },
+    "answer": "B"
+  }
+]

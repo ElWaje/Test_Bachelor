@@ -1,0 +1,202 @@
+[
+  {
+    "question": "¿Cuál es una de las principales dificultades en el despliegue de redes 5G?",
+    "options": {
+      "A": "La baja velocidad de conexión",
+      "B": "Reducción de la capacidad de las redes",
+      "C": "La necesidad de una infraestructura de antenas densa para cubrir zonas pequeñas y densas",
+      "D": "No se necesita nueva infraestructura"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "¿Qué tipo de servicios de 5G está preparado para transformar a los sectores industriales?",
+    "options": {
+      "A": "Servicios exclusivos de voz",
+      "B": "Servicios de correo electrónico",
+      "C": "Internet de alta velocidad",
+      "D": "IoT masivo y aplicaciones industriales como la conducción autónoma y la fabricación inteligente"
+    },
+    "answer": "D"
+  },
+  {
+    "question": "¿Qué arquitectura utilizan las redes 5G para su estructura completa?",
+    "options": {
+      "A": "Standalone (SA)",
+      "B": "No independiente (NSA)",
+      "C": "LTE-A",
+      "D": "HSPA"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "¿Qué servicios introdujeron las redes 3G?",
+    "options": {
+      "A": "Únicamente servicio de voz",
+      "B": "Datos móviles, voz y mensajería multimedia (MMS)",
+      "C": "Servicios de streaming en alta definición",
+      "D": "Ninguno de los anteriores"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿Cómo se caracterizan las redes NSA (Non-Standalone) en la transición a 5G?",
+    "options": {
+      "A": "Son redes exclusivamente de 5G",
+      "B": "Son utilizadas solo para redes privadas",
+      "C": "Utilizan la infraestructura 4G para gestionar las comunicaciones, mejorando solo la velocidad con 5G",
+      "D": "No admiten la compatibilidad con redes 4G"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "¿Qué mejora trajo el 4G respecto al 3G?",
+    "options": {
+      "A": "Mayor cobertura en zonas rurales",
+      "B": "Velocidad más baja",
+      "C": "Aumento de la velocidad de conexión, permitiendo el streaming en alta definición",
+      "D": "Mejoras en la seguridad de las redes"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "¿Qué protocolo es esencial para la conexión y la gestión de la red 4G?",
+    "options": {
+      "A": "LTE (Evolución a Largo Plazo)",
+      "B": "IPv6",
+      "C": "Wi-Fi",
+      "D": "UMTS"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "¿Cuál es la mejora principal que aporta 5G respecto a 4G en lo que se refiere a la velocidad de descarga?",
+    "options": {
+      "A": "5G no mejora la velocidad respecto a 4G",
+      "B": "5G puede superar los 10 Gbps en condiciones ideales",
+      "C": "La velocidad de 5G es más baja que la de 4G",
+      "D": "4G ofrece una velocidad más alta"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿Qué tecnología permitió el salto de las redes móviles de 2G a 3G?",
+    "options": {
+      "A": "UMTS",
+      "B": "Wi-Fi",
+      "C": "5G",
+      "D": "LTE"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "¿Cuál es la principal diferencia entre las redes 3G, 4G y 5G?",
+    "options": {
+      "A": "La velocidad de la conexión y la latencia",
+      "B": "La compatibilidad con Wi-Fi",
+      "C": "El tipo de antenas utilizadas",
+      "D": "La capacidad de gestionar servicios de voz"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "¿Qué permite el uso de NR (New Radio) en las redes 5G?",
+    "options": {
+      "A": "Aumentar la cobertura de las redes 4G",
+      "B": "Dar soporte a una mejor capacidad, velocidad y latencia en 5G",
+      "C": "Evitar el uso de otras tecnologías como LTE",
+      "D": "Mejorar la seguridad de las conexiones móviles"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿Qué significa el uso de small cells en redes 5G?",
+    "options": {
+      "A": "Redes de largo alcance que cubren grandes áreas",
+      "B": "Redes solo para entornos rurales",
+      "C": "Redes inalámbricas",
+      "D": "Redes de pequeño tamaño que mejoran la capacidad en zonas de alta densidad de usuarios"
+    },
+    "answer": "D"
+  },
+  {
+    "question": "¿Cuál de las siguientes aplicaciones es esencial para las redes 5G?",
+    "options": {
+      "A": "Transmisión de señales analógicas",
+      "B": "Conducción autónoma y telemedicina",
+      "C": "Únicamente servicios de voz",
+      "D": "Vídeo por streaming solo en baja definición"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿Qué velocidad máxima pueden alcanzar las redes 4G en condiciones ideales?",
+    "options": {
+      "A": "10 Mbps",
+      "B": "1 Gbps",
+      "C": "100 Mbps",
+      "D": "10 Gbps"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿Qué tecnología de redes móviles ofrece una latencia de solo 1 ms?",
+    "options": {
+      "A": "3G",
+      "B": "4G",
+      "C": "5G",
+      "D": "6G"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "¿Cuál es una de las características principales de las redes 5G?",
+    "options": {
+      "A": "Velocidad baja",
+      "B": "Solamente mejora las conexiones de voz",
+      "C": "Sólo se utiliza para internet móvil",
+      "D": "Latencia ultra baja y capacidad de conectar miles de dispositivos simultáneamente"
+    },
+    "answer": "D"
+  },
+  {
+    "question": "¿Cómo se llama la técnica que permite utilizar múltiples bandas de frecuencia simultáneamente en redes 4G y 5G?",
+    "options": {
+      "A": "Carrier Aggregation",
+      "B": "Modulación de Frecuencia",
+      "C": "Segmentación de red",
+      "D": "Beamforming"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "¿Cuál es la capacidad de conexión de dispositivos en redes 5G?",
+    "options": {
+      "A": "Hasta 100 dispositivos por kilómetro cuadrado",
+      "B": "Hasta 1 millón de dispositivos por kilómetro cuadrado",
+      "C": "Hasta 10 mil dispositivos por kilómetro cuadrado",
+      "D": "Hasta 10 dispositivos por kilómetro cuadrado"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿Qué latencia ofrecen las redes 5G?",
+    "options": {
+      "A": "10 ms",
+      "B": "100 ms",
+      "C": "1 ms",
+      "D": "50 ms"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "¿Cuál de las siguientes topologías se utiliza en redes 5G para la cobertura de alta densidad?",
+    "options": {
+      "A": "Estaciones base convencionales",
+      "B": "Microceldas y small cells",
+      "C": "Redes de fibra óptica",
+      "D": "Redes Wi-Fi"
+    },
+    "answer": "B"
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "question": "¿Cuál es la función del sistema operativo en un sistema informático?",
+    "options": {
+      "A": "Proporcionar solo servicios de almacenamiento.",
+      "B": "Gestionar recursos y facilitar la interacción entre hardware y software.",
+      "C": "Limitar el acceso de usuarios a archivos.",
+      "D": "Servir únicamente para ejecutar aplicaciones de usuario."
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿Qué es la resolución de una imagen?",
+    "options": {
+      "A": "Número de píxeles en filas y columnas.",
+      "B": "Profundidad de color de una imagen.",
+      "C": "Cantidad de píxeles en la diagonal de la imagen.",
+      "D": "Relación entre el tamaño del archivo y su compresión."
+    },
+    "answer": "A"
+  },
+  {
+    "question": "¿Qué unidades son superiores al yottabyte?",
+    "options": {
+      "A": "Gigabyte y terabyte",
+      "B": "No existen unidades superiores al yottabyte",
+      "C": "Brontobyte, aunque no está estandarizada",
+      "D": "Megabyte y kilobyte"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "¿Qué función realiza el sistema hexadecimal en informática?",
+    "options": {
+      "A": "Facilita la representación de grandes números binarios de forma compacta.",
+      "B": "Se usa para realizar operaciones lógicas.",
+      "C": "Permite representar caracteres alfanuméricos.",
+      "D": "Solo se emplea en la programación gráfica."
+    },
+    "answer": "A"
+  },
+  {
+    "question": "¿Cuál de los siguientes códigos se utiliza en sistemas militares de EE.UU.?",
+    "options": {
+      "A": "ASCII",
+      "B": "Unicode",
+      "C": "FIELDATA",
+      "D": "EBCDIC"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "En un sistema de numeración posicional, ¿qué representa la base?",
+    "options": {
+      "A": "Número de símbolos diferentes que el sistema utiliza.",
+      "B": "Total de operaciones posibles.",
+      "C": "Número de posiciones decimales permitidas.",
+      "D": "El valor máximo de un número en el sistema."
+    },
+    "answer": "A"
+  },
+  {
+    "question": "¿Cuál es la característica de las imágenes vectoriales?",
+    "options": {
+      "A": "Pueden escalarse sin perder calidad.",
+      "B": "Almacenan píxeles con información de color.",
+      "C": "Utilizan la extensión JPEG.",
+      "D": "Son menos precisas que los mapas de bits."
+    },
+    "answer": "A"
+  },
+  {
+    "question": "¿Qué extensión corresponde a archivos de texto sin formato?",
+    "options": {
+      "A": ".docx",
+      "B": ".odt",
+      "C": ".txt",
+      "D": ".pdf"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "¿Qué es un sistema informático?",
+    "options": {
+      "A": "Conjunto de software de un ordenador.",
+      "B": "Conjunto de partes interrelacionadas que incluye hardware, software y usuarios.",
+      "C": "Conjunto de dispositivos de almacenamiento.",
+      "D": "El dispositivo físico utilizado para procesar datos."
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿Para qué se usa el código UNICODE?",
+    "options": {
+      "A": "Almacenar caracteres en formato binario.",
+      "B": "Codificar exclusivamente texto en inglés.",
+      "C": "Representar texto en la mayoría de idiomas y plataformas.",
+      "D": "Codificar datos de control en sistemas de red."
+    },
+    "answer": "C"
+  },
+  {
+    "question": "¿Qué característica define a una imagen de mapa de bits?",
+    "options": {
+      "A": "Se compone de vectores.",
+      "B": "No contiene colores.",
+      "C": "Cada píxel representa un color específico.",
+      "D": "No se usa en sistemas gráficos."
+    },
+    "answer": "C"
+  },
+  {
+    "question": "¿Qué es la codificación ASCII?",
+    "options": {
+      "A": "Sistema de 7-8 bits que representa caracteres alfanuméricos y de control.",
+      "B": "Código usado para cifrar datos en red.",
+      "C": "Un método de compresión de datos.",
+      "D": "Una técnica de conversión binaria."
+    },
+    "answer": "A"
+  },
+  {
+    "question": "¿Qué función tiene el byte en almacenamiento de datos?",
+    "options": {
+      "A": "Es una unidad de longitud.",
+      "B": "Es una unidad de 8 bits que almacena información.",
+      "C": "Sirve solo para codificar texto.",
+      "D": "Se emplea en sistemas de procesamiento de imágenes."
+    },
+    "answer": "B"
+  },
+  {
+    "question": "En el sistema binario, ¿cuánto representa el número “1110” en decimal?",
+    "options": {
+      "A": "11",
+      "B": "10",
+      "C": "12",
+      "D": "14"
+    },
+    "answer": "D"
+  },
+  {
+    "question": "¿Qué tipo de sistema utiliza dos niveles de tensión eléctrica?",
+    "options": {
+      "A": "Sistema decimal",
+      "B": "Sistema binario",
+      "C": "Sistema octal",
+      "D": "Sistema hexadecimal"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿Cuál es el valor del número octal “157” en decimal?",
+    "options": {
+      "A": "103",
+      "B": "147",
+      "C": "111",
+      "D": "99"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "¿Qué es el sistema binario?",
+    "options": {
+      "A": "Sistema de numeración de base 10.",
+      "B": "Sistema de numeración de base 2 utilizado en electrónica digital.",
+      "C": "Sistema de numeración de base 8.",
+      "D": "Sistema utilizado solo en programas de software."
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿Qué componente pertenece a la “parte lógica” de un sistema informático?",
+    "options": {
+      "A": "Sistema operativo",
+      "B": "Disco duro",
+      "C": "Pantalla",
+      "D": "Teclado"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "¿Cuál de los siguientes NO es un formato de archivo de video?",
+    "options": {
+      "A": "DWG",
+      "B": "AVI",
+      "C": "MPEG-4",
+      "D": "OGG"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "En la codificación binaria, ¿qué representa el dígito “1”?",
+    "options": {
+      "A": "Un estado de apagado",
+      "B": "Un estado de encendido",
+      "C": "Un valor numérico negativo",
+      "D": "No tiene un significado específico"
+    },
+    "answer": "B"
+  }
+]

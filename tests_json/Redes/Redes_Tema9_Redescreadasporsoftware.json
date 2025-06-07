@@ -1,0 +1,202 @@
+[
+  {
+    "question": "¿Qué permite la implementación de políticas QoS en redes SDN?",
+    "options": {
+      "A": "Mejorar la velocidad general de la red",
+      "B": "Aumentar la seguridad de la red",
+      "C": "Garantizar que los servicios esenciales como las videollamadas tengan prioridad sobre otros tipos de tráfico",
+      "D": "Reducir el número de dispositivos en la red"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "¿Cuáles son las aplicaciones de SDN en las ciudades inteligentes?",
+    "options": {
+      "A": "Gestión de tráfico, servicios públicos y sistemas de seguridad mediante redes programables",
+      "B": "Creación de redes exclusivamente para dispositivos móviles",
+      "C": "Únicamente para gestionar servicios de comunicación de vídeo",
+      "D": "Mejorar las conexiones a internet para los usuarios domésticos"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "¿Cómo ayuda la seguridad en redes SDN?",
+    "options": {
+      "A": "Sólo permiten el acceso a usuarios registrados",
+      "B": "Permite aplicar políticas de seguridad centralizadas y garantizar que solo los dispositivos autorizados tengan acceso a la red",
+      "C": "No permite la configuración de reglas de seguridad",
+      "D": "Las políticas de seguridad no se pueden modificar"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿Qué herramienta ofrece recursos para el desarrollo de redes programables, incluyendo simuladores y API para interactuar con redes?",
+    "options": {
+      "A": "OpenFlow",
+      "B": "Mininet",
+      "C": "Cisco DevNet",
+      "D": "ONOS"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "¿Cuál es la función de QoS (Calidad de Servicio) en una red SDN?",
+    "options": {
+      "A": "Aumentar la capacidad de la red",
+      "B": "Mejorar la seguridad",
+      "C": "Priorizar el tráfico para aplicaciones críticas como videoconferencias o tráfico de voz",
+      "D": "Reducir la latencia de la red"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "¿Qué herramienta se utiliza para simular redes programables?",
+    "options": {
+      "A": "Mininet",
+      "B": "Wireshark",
+      "C": "GNS3",
+      "D": "Cisco Packet Tracer"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "¿Qué hace el lenguaje P4 en el contexto de las redes SDN?",
+    "options": {
+      "A": "Proporciona herramientas para controlar la seguridad",
+      "B": "Gestión de redes inalámbricas",
+      "C": "Reduce la latencia en red",
+      "D": "Permite definir y controlar el comportamiento de los dispositivos de red, como switches y routers"
+    },
+    "answer": "D"
+  },
+  {
+    "question": "¿Qué hace un controlador SDN como OpenDaylight?",
+    "options": {
+      "A": "Reduce la velocidad de conexión de la red",
+      "B": "Filtra el tráfico de red",
+      "C": "Gestiona la configuración física de los dispositivos",
+      "D": "Gestiona el comportamiento de la red, tomando decisiones sobre cómo se dirigen los datos"
+    },
+    "answer": "D"
+  },
+  {
+    "question": "¿Cuál es la diferencia entre OpenFlow y NETCONF en SDN?",
+    "options": {
+      "A": "OpenFlow se utiliza para la configuración de dispositivos, mientras que NETCONF gestiona el tráfico de datos",
+      "B": "Ambos tienen las mismas funciones",
+      "C": "OpenFlow gestiona el tráfico de datos, mientras que NETCONF es un protocolo para la configuración de los dispositivos de red",
+      "D": "NETCONF es más rápido que OpenFlow"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "¿Qué es el plano de datos en las redes SDN?",
+    "options": {
+      "A": "La parte de la red que controla los dispositivos físicos",
+      "B": "La capa que se encarga de gestionar el tráfico en tiempo real",
+      "C": "La capa que gestiona la seguridad de la red",
+      "D": "La capa que transmite los datos entre los dispositivos de red según las reglas establecidas por el plano de control"
+    },
+    "answer": "D"
+  },
+  {
+    "question": "¿Qué protocolo es esencial en SDN para controlar el tráfico entre dispositivos de red?",
+    "options": {
+      "A": "TCP/IP",
+      "B": "OpenFlow",
+      "C": "HTTP",
+      "D": "SMTP"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿Cuáles son las ventajas principales de las SDN?",
+    "options": {
+      "A": "Menor seguridad",
+      "B": "Mayor latencia en la comunicación",
+      "C": "Flexibilidad, eficiencia y seguridad mejorada gracias a la centralización del control",
+      "D": "Reducción de la velocidad de la red"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "¿Qué técnica se utiliza para integrar SDN con redes tradicionales?",
+    "options": {
+      "A": "Crear redes independientes para cada tipo de tecnología",
+      "B": "Únicamente utilizar dispositivos SDN",
+      "C": "Controladores híbridos que permiten la convivencia entre redes tradicionales y SDN",
+      "D": "No es posible integrar redes SDN con redes tradicionales"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "¿Qué función tiene un controlador SDN en la administración de una red?",
+    "options": {
+      "A": "Gestiona las rutas de tránsito y las políticas de seguridad en la red",
+      "B": "Configura solo los dispositivos físicos",
+      "C": "Registra todas las conexiones de red",
+      "D": "Filtra el tráfico de la red"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "¿Cuál es la función principal de las VLAN en redes SDN?",
+    "options": {
+      "A": "Aumentar la velocidad de conexión",
+      "B": "Segregar y gestionar el tráfico de manera lógica dentro de una infraestructura física común",
+      "C": "Priorizar las aplicaciones de vídeo",
+      "D": "Permitir la conexión de usuarios externos"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿Qué es un plano de control en una red SDN?",
+    "options": {
+      "A": "La capa que transmite los datos a través de la red",
+      "B": "La capa centralizada que toma las decisiones sobre el encaminamiento y el flujo de datos",
+      "C": "La capa que configura la seguridad de la red",
+      "D": "La capa que gestiona el acceso de los usuarios a la red"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿Qué son las redes programables?",
+    "options": {
+      "A": "Redes que se pueden configurar y gestionar mediante programación, permitiendo un control centralizado y dinámico",
+      "B": "Redes basadas en protocolos estáticos",
+      "C": "Redes gestionadas manualmente por cada dispositivo",
+      "D": "Redes sin necesidad de control"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "¿Qué características tiene un controlador SDN como ONOS?",
+    "options": {
+      "A": "Está orientado a la creación de infraestructuras de red de gran escala y alta disponibilidad",
+      "B": "Es orientado a redes pequeñas y simples",
+      "C": "Es utilizado exclusivamente por pequeños proveedores de servicios",
+      "D": "No es compatible con otros controladores"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "El principal ventaja de utilizar Mininet para simular redes SDN es que permite crear entornos de red virtuales de manera rápida y eficiente, facilitando el desarrollo y la prueba de aplicaciones y protocolos de red en un entorno controlado.",
+    "options": {
+      "A": "Permite simular redes con gran latencia",
+      "B": "Es solo útil para redes de pequeña escala",
+      "C": "Solo se puede utilizar con Cisco",
+      "D": "Permite simular redes de manera rápida y probar nuevas topologías sin necesidad de infraestructura física"
+    },
+    "answer": "D"
+  },
+  {
+    "question": "¿Qué diferencia existe entre redes tradicionales y las diseñadas por software (SDN)?",
+    "options": {
+      "A": "Las redes tradicionales permiten un control dinámico mientras que las SDN solo son fijas",
+      "B": "Las redes SDN separan el plano de control del plano de datos, permitiendo una gestión centralizada y flexible",
+      "C": "Las redes tradicionales no utilizan protocolos",
+      "D": "Las redes SDN no pueden gestionar tráfico en tiempo real"
+    },
+    "answer": "B"
+  }
+]

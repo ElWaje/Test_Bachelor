@@ -1,0 +1,202 @@
+[
+  {
+    "question": "¿Cuál es la principal aplicación del IoT en el sector de la salud?",
+    "options": {
+      "A": "Gestionar servicios públicos",
+      "B": "Controlar la temperatura en almacenes",
+      "C": "Monitorear pacientes de forma remota y gestionar sus tratamientos a través de dispositivos médicos conectados",
+      "D": "Controlar la iluminación en hospitales"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "¿Cuál es la utilidad de las redes IoT en las ciudades inteligentes?",
+    "options": {
+      "A": "Mejorar la seguridad de la red Wi-Fi",
+      "B": "Gestionar la producción energética",
+      "C": "Hacer el monitoreo de las redes 5G",
+      "D": "Optimizar los servicios urbanos, como el control del tráfico y la gestión de la iluminación pública"
+    },
+    "answer": "D"
+  },
+  {
+    "question": "¿Cuál de las siguientes características es esencial para el IoT?",
+    "options": {
+      "A": "No necesita conexión constante a la red",
+      "B": "Funciona solo con Wi-Fi",
+      "C": "Interoperabilidad entre dispositivos de diferentes fabricantes",
+      "D": "Requiere conexión directa a una red cableada"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "¿Qué protocolo de seguridad se utiliza para garantizar la seguridad en la comunicación IoT?",
+    "options": {
+      "A": "TLS",
+      "B": "HTTP",
+      "C": "FTP",
+      "D": "SMTP"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "¿Cuál de los siguientes protocolos permite la comunicación de dispositivos IoT sobre redes de baja potencia?",
+    "options": {
+      "A": "Ethernet",
+      "B": "TCP/IP",
+      "C": "6LoWPAN",
+      "D": "MPLS"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "¿Qué es la Internet de las Cosas (IoT)?",
+    "options": {
+      "A": "Una red solo utilizada en empresas",
+      "B": "La interconexión de dispositivos físicos para recoger e intercambiar datos a través de Internet",
+      "C": "Dispositivos que no necesitan conexión a Internet",
+      "D": "Dispositivos solo dedicados a la seguridad"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿Cuáles son los mecanismos que ayudan a proteger las redes IoT contra ataques de seguridad?",
+    "options": {
+      "A": "Únicamente autenticación",
+      "B": "Únicamente firewalls",
+      "C": "Ningún mecanismo de protección",
+      "D": "Cifrado, autenticación y firewalls"
+    },
+    "answer": "D"
+  },
+  {
+    "question": "¿Cuáles son los componentes básicos de una red IoT?",
+    "options": {
+      "A": "Servidores y ordenadores",
+      "B": "Únicamente sensores y servidores",
+      "C": "Sensores, actuadores y pasarelas",
+      "D": "Únicamente actuadores"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "¿Qué estrategia se recomienda para controlar quién puede acceder a los dispositivos IoT dentro de una red?",
+    "options": {
+      "A": "Autenticación única",
+      "B": "Acceso abierto para todos",
+      "C": "Control de acceso basado en roles (RBAC)",
+      "D": "Únicamente acceso por contraseña"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "¿Qué implica la planificación del diseño de una red IoT?",
+    "options": {
+      "A": "Determinar qué dispositivos se pueden conectar sin restricciones",
+      "B": "Analizar los requisitos, el alcance y la capacidad de la red para asegurar que cumpla con las necesidades de la infraestructura IoT",
+      "C": "Configurar solo los sensores",
+      "D": "Establecer solo los requisitos de seguridad"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿Qué tecnología de comunicación inalámbrica se utiliza habitualmente en el IoT para el control doméstico?",
+    "options": {
+      "A": "Zigbee y Z-Wave",
+      "B": "5G",
+      "C": "Wi-Fi 6",
+      "D": "Bluetooth 5.0"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "¿Qué capa de la red IoT es responsable de la recolección de datos de los dispositivos?",
+    "options": {
+      "A": "Capa de red",
+      "B": "Capa de percepción",
+      "C": "Capa de aplicación",
+      "D": "Capa de seguridad"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿Cómo se denomina el proceso de reducir la carga de trabajo en la nube mediante nodos intermedios?",
+    "options": {
+      "A": "Computación en la nube",
+      "B": "Computación en la niebla",
+      "C": "Almacenamiento en el borde",
+      "D": "Segmentación de red"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿Qué es el edge computing en el IoT?",
+    "options": {
+      "A": "Un método para almacenar datos en la nube",
+      "B": "La conexión directa con redes 5G",
+      "C": "El procesamiento de datos más cerca del dispositivo IoT para reducir la latencia",
+      "D": "Un protocolo de comunicación utilizado en dispositivos de seguridad"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "¿En qué sector el IoT puede ayudar a optimizar los procesos de mantenimiento predictivo?",
+    "options": {
+      "A": "Industria",
+      "B": "Agricultura",
+      "C": "Educación",
+      "D": "Transporte público"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "¿Qué técnica de seguridad se utiliza para asegurar las comunicaciones entre dispositivos IoT?",
+    "options": {
+      "A": "Simplex",
+      "B": "Cifrado TLS/SSL",
+      "C": "Protocolos HTTP y FTP",
+      "D": "DNSSEC"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿Cuál es una de las principales vulnerabilidades de las redes IoT?",
+    "options": {
+      "A": "Alta latencia",
+      "B": "Acceso no autorizado a dispositivos mal configurados",
+      "C": "Alta velocidad de conexión",
+      "D": "Interoperabilidad limitada"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿Cuál es la función de las pasarelas en una red IoT?",
+    "options": {
+      "A": "Almacenar los datos localmente",
+      "B": "Controlar los datos en tiempo real",
+      "C": "Enviar datos exclusivamente a la nube",
+      "D": "Conectar los dispositivos IoT con la infraestructura de red más amplia"
+    },
+    "answer": "D"
+  },
+  {
+    "question": "¿Qué plataforma en la nube se utiliza para gestionar dispositivos IoT?",
+    "options": {
+      "A": "AWS IoT, Microsoft Azure IoT y Google Cloud IoT",
+      "B": "Google Drive",
+      "C": "Dropbox",
+      "D": "iCloud"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "¿Qué protocolos se utilizan en el IoT para la comunicación entre dispositivos?",
+    "options": {
+      "A": "MQTT y CoAP",
+      "B": "HTTP y FTP",
+      "C": "DNS y TCP",
+      "D": "IMAP y POP3"
+    },
+    "answer": "A"
+  }
+]

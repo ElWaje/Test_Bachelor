@@ -1,0 +1,202 @@
+[
+  {
+    "question": "¿Cuáles son las herramientas más comunes para la monitorización en tiempo real de un sistema distribuido?",
+    "options": {
+      "A": "Prometheus y Grafana",
+      "B": "Microsoft Excel",
+      "C": "OnlyOffice",
+      "D": "Visual Studio Code"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "¿Qué topología es habitual en sistemas distribuidos en la nube?",
+    "options": {
+      "A": "Topología en malla y en estrella",
+      "B": "Sólo en estrella",
+      "C": "Sólo en anillo",
+      "D": ""
+    },
+    "answer": "A"
+  },
+  {
+    "question": "¿Qué función tiene el API en la integración de sistemas distribuidos en la nube?",
+    "options": {
+      "A": "Permite la comunicación entre diferentes sistemas y plataformas en la nube para compartir datos y servicios",
+      "B": "Gestiona la infraestructura física",
+      "C": "Proporciona herramientas de seguridad",
+      "D": "Controla el tráfico de red"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "¿Cuáles son las características clave del cloud computing?",
+    "options": {
+      "A": "Capacidad limitada y costo fijo",
+      "B": "Únicamente accesible desde dispositivos físicos",
+      "C": "Sin capacidad de aumentar o reducir recursos según la demanda",
+      "D": "Escalabilidad, acceso remoto y modelo de pago por uso"
+    },
+    "answer": "D"
+  },
+  {
+    "question": "¿Qué es el multi-cloud en la arquitectura de los sistemas en la nube?",
+    "options": {
+      "A": "Utilizar un único proveedor de servicios en la nube",
+      "B": "Utilizar solo un proveedor de nube para gestionar todos los datos",
+      "C": "Utilizar varios proveedores de nube para mejorar la flexibilidad y evitar la dependencia de un solo proveedor",
+      "D": "Utilizar servicios únicamente de nube privada"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "¿Qué función tiene Docker en el entorno de la nube?",
+    "options": {
+      "A": "Mejorar la seguridad de red",
+      "B": "Gestionar la infraestructura física",
+      "C": "Proporcionar recursos de almacenamiento",
+      "D": "Crear, desplegar y ejecutar contenedores de aplicaciones de manera consistente en diferentes entornos"
+    },
+    "answer": "D"
+  },
+  {
+    "question": "¿Cuál es la diferencia entre sistemas monolíticos y microservicios en sistemas distribuidos?",
+    "options": {
+      "A": "Los microservicios son una extensión de los sistemas monolíticos",
+      "B": "Los sistemas monolíticos son más fáciles de escalar",
+      "C": "Los microservicios dividen una aplicación en servicios pequeños, mientras que los monolíticos son unidades grandes e indivisibles",
+      "D": "Los microservicios no pueden trabajar con sistemas en la nube"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "¿Cuál es la función de Cassandra en un sistema distribuido?",
+    "options": {
+      "A": "Almacenar datos en un solo servidor",
+      "B": "Proporcionar servicios web dinámicos",
+      "C": "Almacenar grandes volúmenes de datos en múltiples servidores con alta disponibilidad y escalabilidad",
+      "D": "Gestionar las conexiones de red"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "¿Qué es Kubernetes en el contexto del cloud computing?",
+    "options": {
+      "A": "Una herramienta para gestionar servidores físicos",
+      "B": "Un sistema de orquestación de contenedores para automatizar el despliegue y la gestión de contenedores",
+      "C": "Una base de datos distribuida",
+      "D": "Una herramienta de monitoreo de redes"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿Qué ofrece IaaS (Infrastructure as a Service)?",
+    "options": {
+      "A": "Servicios de soporte para aplicaciones",
+      "B": "Servicios exclusivamente de seguridad",
+      "C": "Recursos básicos como máquinas virtuales, almacenamiento y redes, controlando el sistema operativo y las aplicaciones",
+      "D": "Servicio de aplicaciones de software"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "¿Qué es la escalabilidad horizontal en sistemas distribuidos en la nube?",
+    "options": {
+      "A": "Aumentar la capacidad de un único servidor",
+      "B": "Aumentar la velocidad de la conexión entre nodos",
+      "C": "Únicamente aumentar la memoria de nodos existentes",
+      "D": "Añadir más nodos a la red para distribuir mejor la carga"
+    },
+    "answer": "D"
+  },
+  {
+    "question": "¿Qué función tiene Apache Kafka en un sistema distribuido?",
+    "options": {
+      "A": "Plataforma de mensajería distribuida para gestionar grandes flujos de datos en tiempo real",
+      "B": "Base de datos NoSQL para gestionar datos distribuidos",
+      "C": "Controlar la seguridad de las aplicaciones",
+      "D": "Crear entornos de virtualización"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "¿Cómo se puede manejar la redundancia en sistemas distribuidos en la nube?",
+    "options": {
+      "A": "Utilizando solo una base de datos centralizada",
+      "B": "Duplicar componentes críticos para garantizar la disponibilidad y minimizar el tiempo de inactividad",
+      "C": "Los sistemas no necesitan redundancia",
+      "D": "Implementando sistemas de seguridad solo"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿Cuál es la diferencia entre IaaS, PaaS y SaaS?",
+    "options": {
+      "A": "IaaS proporciona recursos básicos, PaaS ofrece plataformas para desarrollar aplicaciones, y SaaS ofrece aplicaciones directamente a los usuarios.",
+      "B": "PaaS y SaaS son muy similares, solo varían en la infraestructura",
+      "C": "IaaS es solo para empresas grandes",
+      "D": "SaaS solo se puede utilizar en entornos privados"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "¿Qué componentes forman los sistemas distribuidos en la nube?",
+    "options": {
+      "A": "Únicamente servidores de máquina virtual",
+      "B": "Nodos, enlaces y servicios",
+      "C": "Servicios de correo electrónico y chat",
+      "D": "Solamente nodos de procesamiento"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿Qué es el cloud computing?",
+    "options": {
+      "A": "Almacenamiento de datos en disco duro físico",
+      "B": "El proceso de acceder a recursos informáticos como servidores, almacenamiento y bases de datos a través de Internet",
+      "C": "Únicamente procesamiento de datos de forma local",
+      "D": "La capacidad de compartir archivos entre dispositivos sin conexión a Internet"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿Qué modelos de servicio son típicos en el cloud computing?",
+    "options": {
+      "A": "IaaS, PaaS, SaaS",
+      "B": "Virtualización y almacenamiento",
+      "C": "Soluciones de almacenamiento externo",
+      "D": "Únicamente servicio de correo electrónico"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "¿Qué es el serverless computing?",
+    "options": {
+      "A": "Un modelo en el que se gestiona activamente la infraestructura de servidores",
+      "B": "Un modelo en el que los desarrolladores pueden centrarse únicamente en su aplicación sin preocuparse por la gestión de los servidores",
+      "C": "Un modelo exclusivo para aplicaciones web",
+      "D": "Únicamente para infraestructuras privadas"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "¿Cuáles son las ventajas del edge computing en entornos distribuidos en la nube?",
+    "options": {
+      "A": "Reducción de la latencia y mejora de los tiempos de respuesta procesando datos cerca del origen",
+      "B": "Crear una infraestructura exclusiva para servicios de copia de seguridad",
+      "C": "Procesar datos cerca del dispositivo, mejorando los tiempos de respuesta y reduciendo la latencia",
+      "D": "Aumentar el tráfico de datos entre nodos"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "¿Qué estrategia se puede utilizar para la automatización del despliegue en entornos nublados?",
+    "options": {
+      "A": "Desplegar manualmente todos los recursos",
+      "B": "Únicamente gestionar los recursos de manera local",
+      "C": "No es posible automatizar el despliegue en nubes",
+      "D": "Utilizar herramientas como Terraform y Ansible para automatizar el despliegue y la configuración de recursos"
+    },
+    "answer": "D"
+  }
+]
