@@ -1,86 +1,47 @@
+
 # 🧪 Generador de Tests en PyQt5
 
-Este proyecto es una aplicación de escritorio construida con **Python** y **PyQt5** que permite crear, organizar y realizar tests interactivos de forma visual. Está diseñado para docentes, estudiantes o cualquier persona que necesite gestionar cuestionarios organizados por secciones y temas.
+Aplicación de escritorio **Python + PyQt5** para crear, organizar y realizar tests interactivos.  
+Ahora con estadísticas visuales, fondo personalizado y nuevos modos de examen.  
+Ideal para docentes, estudiantes, opositores o cualquier persona que quiera gestionar cuestionarios y ver su evolución gráfica.
 
 ---
 
 ## 🚀 Características Principales
 
 - 📂 Organización por secciones y archivos `.json`
-- ✅ Realización de tests con respuestas interactivas
-- 📊 Estadísticas automáticas de rendimiento
-- 🧠 Examen aleatorio de 20 preguntas
-- 📝 Posibilidad de añadir nuevos tests o secciones
+- ✅ Realización de tests con respuestas interactivas y revisión al final
+- 📊 Estadísticas automáticas de rendimiento, evolución diaria y por tipo
+- 📈 Gráficas de puntuación y barras comparativas (con línea de tendencia)
+- 📋 Tabla de resultados por examen, coloreada según nota
+- 🧠 Examen aleatorio de 20 preguntas por sección/asignatura
+- 🔀 Examen de 40 preguntas por mitad de temas (primera/segunda)
+- 📝 Añadir tests o secciones personalizados fácilmente
+- 📤 Exportar resultados a CSV
+- 🖼 Fondo de menú configurable, visual y elegante (ver abajo)
 
 ---
 
-## 📸 Interfaz Visual
+## 🖼 Fondo Visual de Menú
 
-### 1. Pantalla principal
-Desde aquí se accede a las secciones y tests disponibles:
+Pantalla principal con fondo personalizado para que los menús sean fáciles de leer y la experiencia más pro:
 
-![Menú principal](assets/Menu_main.png)
-
----
-
-### 2. Selección de sección
-Selecciona la sección desde el desplegable para cargar sus tests:
-
-![Selección de sección](assets/Select_Subject%20.png)
+![Fondo de menú](fondo.png)
 
 ---
 
-### 3. Selección del test
-Una vez seleccionada la sección, escoge el test específico:
+## 📸 Capturas de la Interfaz
 
-![Selección de tema/test](assets/Select_Issue%20.png)
+### Examen 40 preguntas (primera mitad)
+![Examen 40 primera mitad](40_Question_Random_Middle_1.png)
 
----
+### Examen 40 preguntas (segunda mitad)
+![Examen 40 segunda mitad](40_Question_Random_Middle_2.png)
 
-### 4. Iniciar un test
-Haz clic en "Hacer Test" para comenzar con las preguntas:
-
-![Iniciar test](assets/Make_Test.png)
-
----
-
-### 5. Examen aleatorio de 20 preguntas
-Puedes optar por un test mixto aleatorio de cualquier sección:
-
-![Examen aleatorio](assets/20_Question_Random.png)
-
----
-
-### 6. Crear nueva sección
-Crea una sección personalizada para organizar mejor los tests:
-
-![Nueva sección](assets/Create_New_Section.png)
-
----
-
-### 7. Añadir un test
-Agrega nuevos tests en formato `.json` a la sección actual:
-
-![Añadir test](assets/Add_Test.png)
-
----
-
-### 8. Ver estadísticas
-Consulta los resultados acumulados de tus tests:
-
-![Estadísticas](assets/Statistics.png)
-
----
-
-## 🛠 Requisitos
-
-- Python 3.7 o superior
-- PyQt5
-- python-docx (opcional si usas `.docx` como fuente)
-
-```bash
-pip install pyqt5 python-docx
-```
+### Preguntas correctas y resultados
+![Correctas](Corrects.png)
+![Preguntas](Questions.png)
+![Resultados](Results.png)
 
 ---
 
@@ -96,17 +57,12 @@ tests_json/
 │   └── Test3.json
 results.json
 Test_Generator.py
-assets/
-│   ├── Menu_main.png
-│   ├── Select_Subject .png
-│   └── ...
+fondo.png
 ```
 
 ---
 
-## 💬 Formato del archivo `.json`
-
-Cada archivo de test debe tener la siguiente estructura:
+## 💬 Formato de archivo `.json`
 
 ```json
 [
@@ -128,22 +84,38 @@ Cada archivo de test debe tener la siguiente estructura:
 ## 🧩 ¿Cómo empezar?
 
 1. Clona el repositorio.
-2. Ejecuta el archivo `Test_Generator.py`.
-3. Añade tus propios tests o usa los de ejemplo.
-4. ¡Haz un test y mejora tus conocimientos!
+2. Asegúrate de tener Python 3.7+ y dependencias instaladas:
+   ```bash
+   pip install pyqt5 python-docx matplotlib numpy
+   ```
+3. Ejecuta `Test_Generator.py`
+4. Añade tus propios tests (o usa los de ejemplo).
+5. ¡Haz un test, revisa las estadísticas y exporta resultados!
+
+---
+
+## ✨ Novedades 2025
+
+- Fondo visual con `fondo.png` personalizable
+- Estadísticas por fecha y tipo de test (con gráficos)
+- Exportación directa a CSV
+- Tabla visual con color por nota
+- Modos avanzados: 20 aleatorias, 40 por mitad de temas
+- Revisión de respuestas correctas vs. seleccionadas
 
 ---
 
 ## 📬 Contribuciones
 
-¡Se agradecen las sugerencias, correcciones y mejoras! Puedes abrir issues o enviar pull requests para contribuir al proyecto.
+¡Sugerencias, correcciones y mejoras son bienvenidas!  
+Abre issues o pull requests.
 
 ---
 
 ## 📄 Licencia
 
-Este proyecto se distribuye bajo la licencia MIT.
+MIT.
 
 ---
 
-> 📚 Aplicación diseñada con fines educativos para facilitar la evaluación autodidacta y reforzar el aprendizaje con estadísticas visuales.
+> 💡 *Este programa es para fines educativos, refuerzo y autoevaluación. Si fallas, ¡la culpa es del bot!*
