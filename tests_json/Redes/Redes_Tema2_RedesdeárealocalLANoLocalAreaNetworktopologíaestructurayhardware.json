@@ -130,7 +130,7 @@
     "answer": "C"
   },
   {
-    "question": "¿Qué protocolo de seguridad es común para proteger a las LAN?",
+    "question": "¿Qué mecanismo de seguridad es común para proteger a las LAN?",
     "options": {
       "A": "Alta velocidad e inmunidad a las interferencias electromagnéticas",
       "B": "Potencia baja",
@@ -197,6 +197,6 @@
       "C": "WAN",
       "D": "PAN"
     },
-    "answer": "A"
+    "answer": "B"
   }
 ]

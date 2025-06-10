@@ -32,12 +32,12 @@
   {
     "question": "4. ¿Cómo ha evolucionado el protocolo HTTP a través del tiempo?",
     "options": {
-      "A": "De HTTP a HTTP/2 con mejoras en el rendimiento",
-      "B": "De HTTP a HTTPS, añadiendo TLS para una comunicación segura",
-      "C": "De HTTP/2 a HTTP/3 con mejoras de seguridad",
-      "D": "De HTTP a FTP para mejorar la transferencia de datos"
+      "A": "HTTP fue sustituido por UDP para agilizar la navegación web",
+      "B": "De HTTP a HTTPS, incorporando TLS para garantizar la seguridad en las  comunicaciones",
+      "C": "HTTP evolucionó hacia SMTP para mejorar el envío de formularios",
+      "D": "La evolución de HTTP eliminó la necesidad de usar el protocolo TCP"
     },
-    "answer": "A"
+    "answer": "B"
   },
   {
     "question": "5. ¿Qué protocolo diseñado para aplicaciones web modernas combina velocidad y seguridad?",

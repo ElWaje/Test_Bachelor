@@ -182,7 +182,7 @@
   {
     "question": "¿Cuáles son las ventajas del edge computing en entornos distribuidos en la nube?",
     "options": {
-      "A": "Reducción de la latencia y mejora de los tiempos de respuesta procesando datos cerca del origen",
+      "A": "Procesar todos los datos exclusivamente en centros de datos centralizados para evitar redundancias",
       "B": "Crear una infraestructura exclusiva para servicios de copia de seguridad",
       "C": "Procesar datos cerca del dispositivo, mejorando los tiempos de respuesta y reduciendo la latencia",
       "D": "Aumentar el tráfico de datos entre nodos"
